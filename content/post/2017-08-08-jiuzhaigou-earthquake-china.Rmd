@@ -1,0 +1,91 @@
+---
+title: 2017-08-08 中國四川九寨溝地震
+author: Person
+date: '2017-08-08'
+slug: jiuzhaigou-earthquake-china
+categories:
+  - Earthquake
+tags:
+  - China
+  - Crustal
+---
+
+#地震資訊
+
+## 中国地震台网中心
+
+发震时刻：	2017-08-08 21:19:46
+
+纬度：	33.20°
+
+经度：	103.82°
+
+深度：	20千米
+
+震级：	7.0
+
+参考位置：	四川阿坝州九寨沟县
+
+Source:[中国地震台网中心](http://news.ceic.ac.cn/CC20170808211947.html)
+
+## USGS
+2017-08-08 13:19:49 UTC 
+
+33.193°N   103.855°E 
+
+9.0 km depth
+
+###ShakeMap
+![USGS Shakemap](images/20170808/us2000a5x1_intensity.jpg)
+
+###Focal Mechanism
+![USGS Focal Machanism](images/20170808/us2000a5x1_moment-tensor.png)
+
+Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000a5x1#executive)
+
+
+##GFZ
+F-E Region:	Gansu, China	
+
+Time:	2017-08-08 13:19:50.2 UTC
+
+Magnitude:	6.4 (Mw)
+
+Epicenter:	103.88°E  33.10°N
+
+Depth:	9 km
+
+Status:	M - manually revised
+
+###Map
+![GFZ Map](images/20170808/gfz2017pldo.jpg)
+
+###Focal Mechanism
+![GFZ Focal Machanism](images/20170808/gfz2017pldo_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2017pldo)
+
+
+#新聞
+
+##蘋果日報
+[四川九寨溝規模7強震　陸媒：5死63傷](http://www.appledaily.com.tw/realtimenews/article/new/20170808/1178277/)
+
+##BBC
+[Deadly earthquake strikes China's Sichuan province](http://www.bbc.com/news/world-asia-40869028)
+[四川九寨沟县发生7级地震多地震感强烈](http://www.bbc.com/zhongwen/simp/chinese-news-40869997)
+
+##中時電子報
+[四川九寨溝發生芮氏規模7強震 已知12死175傷](http://www.chinatimes.com/realtimenews/20170808007232-260409)
+
+##CNN
+[Powerful earthquake kills at least 12 in China, 175 injured](http://edition.cnn.com/2017/08/08/asia/china-earthquake/index.html)
+
+##Guardian
+[As many as 100 people feared dead in Chinese earthquake](https://www.theguardian.com/world/2017/aug/08/as-many-as-100-people-feared-dead-in-chinese-earthquake)
+
+##美國之音
+[四川九寨沟地震 7死88伤](https://www.voachinese.com/a/china-earthquake-20170808/3977308.html)
+
+#災害資訊
+
