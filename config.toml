@@ -1,11 +1,14 @@
 baseurl = "http://earthquake.personlin.com"
 languageCode = "zh-tw"
-title = "Earthquake information blog"
-theme = "hugo-lithium-theme"
+paginate = "10"
+theme = "Mainroad"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage = true
+
+[Author]
+    name = "Person Lin"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -18,6 +21,7 @@ hasCJKLanguage = true
     url = "https://github.com/personlin/earthquake"
 
 [params]
+    subtitle = "Earthquake information blog"
     description = "An earthquake information blog website built through Hugo and blogdown."
 
     # options for highlight.js (version, additional languages, and theme)
@@ -34,4 +38,15 @@ hasCJKLanguage = true
     width = 50
     height = 50
     alt = "Logo"
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+    # Enable "Social" widget, if any of "social_*" set a value
+    social_github = "personlin/earthquake"
 
