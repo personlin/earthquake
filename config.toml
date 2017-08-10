@@ -1,4 +1,5 @@
 baseurl = "http://earthquake.personlin.com"
+title = "Earthquake information blog"
 languageCode = "zh-tw"
 paginate = "10"
 theme = "Mainroad"
@@ -21,9 +22,8 @@ hasCJKLanguage = true
     url = "https://github.com/personlin/earthquake"
 
 [params]
-    subtitle = "Earthquake information blog"
+    subtitle = "Collection of global major earthquake and Taiwan earthquake information."
     description = "An earthquake information blog website built through Hugo and blogdown."
-
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
     highlightjsCDN = "//cdn.bootcss.com"
