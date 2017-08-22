@@ -10,7 +10,10 @@ tags:
   - Crustal
 ---
 
-#地震資訊
+#台灣地震科學中心(TEC)資訊彙整
+[2017-08-08 Mw 6.5 中國四川九寨溝地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2017-08-08_M6.5.pdf)
+
+#觀測網地震資訊
 
 ## 中国地震台网中心
 
