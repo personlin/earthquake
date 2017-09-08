@@ -1,0 +1,74 @@
+---
+title: 2017-09-08 墨西哥地震
+author: Person
+date: '2017-09-08'
+slug: mecixo-earthquake
+categories:
+  - Earthquake
+tags:
+  - Subduction
+  - Mexico
+---
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+
+#觀測網地震資訊
+
+## USGS
+2017-09-08 04:49:17 UTC
+
+15.029°N   93.807°W
+
+35.0 km depth
+
+###ShakeMap
+![USGS Shakemap](images/20170908/us2000ahv0_intensity.jpg)
+
+###Focal Mechanism
+![USGS Focal Machanism](images/20170908/us2000ahv0_moment-tensor.png)
+
+Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0#executive)
+
+
+##GFZ
+F-E Region:	Gansu, China	
+
+Time:	2017-08-08 13:19:50.2 UTC
+
+Magnitude:	6.4 (Mw)
+
+Epicenter:	103.88°E  33.10°N
+
+Depth:	9 km
+
+Status:	M - manually revised
+
+###Map
+![GFZ Map](images/20170808/gfz2017rpdi.jpg)
+
+###Focal Mechanism
+![GFZ Focal Machanism](images/20170908/gfz2017rpdi_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2017rpdi)
+
+
+#新聞
+
+##蘋果日報
+[墨西哥規模8.4強震至少2死　釀70公分海嘯](http://www.appledaily.com.tw/realtimenews/article/international/20170908/1199690)
+
+##BBC
+[Earthquake of magnitude 8.1 strikes off Mexico's Pacific coast](http://www.bbc.com/news/world-latin-america-41197831)
+
+##中時電子報
+
+##CNN
+[Earthquake hits off the coast of southern Mexico](http://edition.cnn.com/2017/09/08/americas/earthquake-hits-off-the-coast-of-southern-mexico/index.html)
+
+##Guardian
+[Mexico earthquake: tsunami confirmed after 8.4 magnitude quake kills three](https://www.theguardian.com/world/2017/sep/08/mexico-earthquake-warning-tsunami)
+
+
+#災害資訊
