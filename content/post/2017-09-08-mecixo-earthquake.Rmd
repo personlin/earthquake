@@ -46,7 +46,7 @@ Depth:	9 km
 Status:	M - manually revised
 
 ###Map
-![GFZ Map](images/20170808/gfz2017rpdi.jpg)
+![GFZ Map](images/20170908/gfz2017rpdi.jpg)
 
 ###Focal Mechanism
 ![GFZ Focal Machanism](images/20170908/gfz2017rpdi_bb.png)
