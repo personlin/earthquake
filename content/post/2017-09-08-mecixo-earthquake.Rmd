@@ -10,11 +10,15 @@ tags:
   - Mexico
 ---
 
-#CWB 
-![CWB](http://www.cwb.gov.tw/V7/news/Upload/20170908-Mexico-eqevent.pdf)
+#中央氣象局(CWB)
+[2017年9月8日墨西哥近海地震事件說明](http://www.cwb.gov.tw/V7/news/Upload/20170908-Mexico-eqevent.pdf)
+
+Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
+
 
 #台灣地震科學中心(TEC)資訊彙整
 
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 #觀測網地震資訊
 
