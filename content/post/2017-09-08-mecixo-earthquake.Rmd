@@ -18,6 +18,10 @@ Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
 
 #台灣地震科學中心(TEC)資訊彙整
 
+![TEC Event](images/20170908/20170908-Mexico_TEC_01.jpg)
+
+[2017-09-08 Mw 8.1 墨西哥地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2017-09-08_M8.1.pdf)
+
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 #觀測網地震資訊
