@@ -2,7 +2,7 @@
 title: 2017-09-08 墨西哥地震
 author: Person
 date: '2017-09-08'
-slug: mecixo-earthquake
+slug: mexico-earthquake
 categories:
   - Earthquake
 tags:
