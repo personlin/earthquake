@@ -41,7 +41,7 @@ Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 51.0 km depth
 
 ###ShakeMap
-![USGS Shakemap](images/20170919/us2000ar20_intensity.jpg)
+![USGS_Shakemap](images/20170919/us2000ar20_intensity.jpg)
 
 ###Focal Mechanism
 
@@ -52,18 +52,18 @@ Nodal Planes
 | NP1   |	108    |  47  | -98  |
 | NP2   | 299    |  44  | -82  |
 
-![USGS Focal Machanism](images/20170919/us2000ar20_moment-tensor.png)
+![USGS_Focal_Machanism](images/20170919/us2000ar20_moment-tensor.png)
 
 Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000ar20#executive)
 
 ###PAGER
 Estimated Fatalities
 
-![Estimated Fatalities](images/20170919/us2000ar20_alertfatal_small.png)
+![Estimated_Fatalities](images/20170919/us2000ar20_alertfatal_small.png)
 
 Estimated Economic Losses
 
-![Estimated Economic Losses](images/20170919/us2000ar20_alertecon_small.png)
+![Estimated_Economic_Losses](images/20170919/us2000ar20_alertecon_small.png)
 
 
 ##GFZ
@@ -80,10 +80,10 @@ Depth:	56 km
 Status:	M - manually revised
 
 ###Map
-![GFZ Map](images/20170919/gfz2017skgl.jpg)
+![GFZ_Map](images/20170919/gfz2017skgl.jpg)
 
 ###Focal Mechanism
-![GFZ Focal Machanism](images/20170919/gfz2017skgl_bb.png)
+![GFZ_Focal_Machanism](images/20170919/gfz2017skgl_bb.png)
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2017skgl)
 
