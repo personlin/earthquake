@@ -58,9 +58,11 @@ Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000ar20#execu
 
 ###PAGER
 Estimated Fatalities
+
 ![Estimated Fatalities](images/20170919/us2000ar20_alertfatal_small.png)
 
 Estimated Economic Losses
+
 ![Estimated Economic Losses](images/20170919/us2000ar20_alertecon_small.png)
 
 
@@ -78,7 +80,7 @@ Depth:	56 km
 Status:	M - manually revised
 
 ###Map
-![GFZ Map](images/20170919/gfz2017rpdi.jpg)
+![GFZ Map](images/20170919/gfz2017skgl.jpg)
 
 ###Focal Mechanism
 ![GFZ Focal Machanism](images/20170919/gfz2017skgl_bb.png)
