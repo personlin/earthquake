@@ -13,14 +13,17 @@ tags:
 
 #中央氣象局(CWB)
 
+[2017年9月20日 墨西哥 普埃布拉 地震事件說明](http://www.cwb.gov.tw/V7/news/Upload/20170920--Mexico-eqevent.pdf)
 
 Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
 
 
 #台灣地震科學中心(TEC)資訊彙整
 
+[2017-09-20 Mw 7.1 墨西哥地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2017-09-20_M7.1.pdf)
 
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
 
 #IRIS
 
@@ -87,6 +90,15 @@ Status:	M - manually revised
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2017skgl)
 
+#地體構造
+
+##陳冠宇博士(Dr. Kuan-Yu Chen)提供
+
+![eqmap1](images/20170919/MEXiCo_20170920M7.1_1.PNG)
+
+![eqmap2](images/20170919/MEXiCo_20170920M7.1_2.PNG)
+
+Figure origin: Pardo, M., and G. Suárez (1995), Shape of the subducted Rivera and Cocos plates in southern Mexico: Seismic and tectonic implications, J. Geophys. Res., 100(B7), 12357–12373, doi:10.1029/95JB00919.
 
 #新聞
 
