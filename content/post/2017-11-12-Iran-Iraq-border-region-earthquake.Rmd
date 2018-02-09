@@ -1,0 +1,113 @@
+---
+title: 2017-11-12 伊朗-伊拉克邊境地震
+author: Person
+date: '2017-11-12'
+slug: Iran-Iraq-border-region-earthquake
+categories:
+  - Earthquake
+tags:
+  - Crustal
+  - Iran
+  - Iraq
+---
+
+#中央氣象局(CWB)
+
+[地震事件說明](http://www.cwb.gov.tw/V7/)
+
+Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+[2017-11-12 Mw 7.3 地震](http://tec.earth.sinica.edu.tw/)
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+#IRIS
+
+[Mw7.3 Iran-Iraq Border Region](http://ds.iris.edu/ds/nodes/dmc/tools/event/10485707)
+
+
+#觀測網地震資訊
+
+## USGS
+2017-11-12 18:18:17 UTC 
+
+34.886°N   45.941°E 
+
+23.2 km depth
+
+###ShakeMap
+![USGS_Shakemap](images/20171112/us2000bmcg_intensity.jpg)
+
+###Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 352    |  16  | 138  |
+| NP2   | 123    |  79  | 78   |
+
+![USGS_Focal_Machanism](images/20171112/us2000bmcg_moment-tensor.png)
+
+Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000bmcg#executive)
+
+###PAGER
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20171112/us2000bmcg_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20171112/us2000bmcg_alertecon_small.png)
+
+
+##GFZ
+
+
+F-E Region:	Iran-Iraq Border Region	
+
+Time:	2017-11-12 18:18:17.2 UTC
+
+Magnitude:	7.3 (Mw)
+
+Epicenter:	45.92°E  34.85°N
+
+Depth:	22 km
+
+Status:	M - manually revised
+
+###Map
+![GFZ_Map](images/20171112/gfz2017wexs.jpg)
+
+###Focal Mechanism
+![GFZ_Focal_Machanism](images/20171112/gfz2017wexs_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2017wexs)
+
+#地體構造
+
+
+
+#新聞
+
+##蘋果日報
+[兩伊邊境7.3強震　逾210死千人傷](https://tw.appledaily.com/new/realtime/20171113/1239996/)
+
+##BBC
+[Iraq-Iran earthquake: Deadly tremor hits border region](http://www.bbc.com/news/world-middle-east-41963373)
+
+##中時電子報
+[兩伊邊界7.3規模強震！至少210死1700傷](http://www.chinatimes.com/realtimenews/20171113000805-260408)
+
+##CNN
+[Powerful earthquake in Iraq kills at least 100 in Iran](http://edition.cnn.com/2017/11/12/middleeast/iraq-earthquake/index.html)
+
+##Guardian
+[More than 130 killed by earthquake in Iran/Iraq border region](https://www.theguardian.com/world/2017/nov/12/dozens-killed-by-earthquake-in-iraniraq-border-region)
+
+
+#災害資訊
