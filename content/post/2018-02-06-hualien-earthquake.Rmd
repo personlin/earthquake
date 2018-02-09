@@ -109,6 +109,9 @@ Depth:	10 km
 
 Status:	C - confirmed
 
+###Poster
+[Taiwan M 6,3 am 06.02.2018](http://media.gfz-potsdam.de/gfz/sec21/regina/erdbebenposter/2018/gfz2018cozm-poster06_02.pdf)
+
 ###Map
 ![GFZ_Map](images/20180206/gfz2018cozm.jpg)
 
