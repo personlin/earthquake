@@ -9,47 +9,16 @@ tags:
   - Crustal
   - Japan
 ---
-花蓮2018/02/04發生ML規模5.8的地震，是低角度的逆衝機制的地震，屬於隱沒帶板塊界面型地震，2018/02/06再度發生ML規模6.0的地震，這次的震源機制則是走向滑移，屬於地殼地震。
-
-20180204 event is a subduction interface event.
-
-20180618 event is a crustal event.
+日本大阪2018/06/18上午7點58分（台北時間6點58分）發生規模6.1，最大震度6弱的強烈地震，造成至少4人死亡及376人受傷。
 
 #中央氣象局(CWB)
 
-[地震事件說明](http://www.cwb.gov.tw/V7/)
-
-[地震報告008](http://www.cwb.gov.tw/V7/earthquake/Data/quake/EC0204215658008.htm)
-[地震報告022](http://www.cwb.gov.tw/V7/earthquake/Data/quake/EC0206235060022.htm)
-
-##地震報告
-
-![EC0204215658008](images/20180618/EC0204215658008.gif)
-
-![EC0206235060022](images/20180618/EC0206235060022.gif)
-
-##等震度圖
-
-![2018008contour](images/20180618/2018008contour.gif)
-
-![2018022contou](images/20180618/2018022contour.gif)
-
-##震源機制
-
-![2018008cmt](images/20180618/2018008cmt.gif)
-
-![2018022cmt](images/20180618/2018022cmt.gif)
-
-Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
+[]()
 
 
 #台灣地震科學中心(TEC)資訊彙整
 
-[2018-02-04 ML 5.8 花蓮外海地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2018-02-04M5.8.pdf)
-
-[2018-02-06 ML 6.0 花蓮近海地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2018-02-06M6.0.pdf)
-
-[20180618花蓮地震初步調查報告(ETEC)](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/20180618M6.0_NDHU.pdf)
+[]()
 
 
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
@@ -57,16 +26,26 @@ Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 #國震中心(ncree)
 
-[2018-02-06 花蓮地震概要 (V7.2)](http://www.ncree.org/EarthquakeInfo/20180618/0206%E8%8A%B1%E8%93%AE%E5%9C%B0%E9%9C%87%E5%BD%99%E6%95%B4%E7%B0%A1%E5%A0%B1_V7.2.pdf)
-
-[0206花蓮地震省思](http://www.ncree.org/EarthquakeInfo/20180618/0206%E8%8A%B1%E8%93%AE%E5%9C%B0%E9%9C%87%E7%9C%81%E6%80%9D.pdf)
-[PPT](http://www.ncree.org/EarthquakeInfo/20180618/0206%E8%8A%B1%E8%93%AE%E5%9C%B0%E9%9C%87%E7%9C%81%E6%80%9D.ppsx)
+[]()
 
 source: [NCREE](http://www.ncree.org/)
 
+#日本氣象聽(JMA)
+
+![JMA_Shakemap](images/20180618/20180617230226393-18075838.png)
+
+[震源・震度に関する情報](http://www.jma.go.jp/jp/quake/20180617230226393-18075838.html)
+
+#日本防災科學技術研究所(NIED)
+[2018年06月18日　大阪府北部の地震による強震動](http://www.seis.bosai.go.jp/seis-portal/post/2018%E5%B9%B406%E6%9C%8818%E6%97%A5%E3%80%80%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%8C%97%E9%83%A8%E3%81%AE%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E5%BC%B7%E9%9C%87%E5%8B%95)
+
 #IRIS
 
-[Mw6.4 Taiwan](http://ds.iris.edu/ds/nodes/dmc/tools/event/10639985)
+[Mww5.5 Near S. Coast Of Western Honshu](http://ds.iris.edu/ds/nodes/dmc/tools/event/10885198)
+
+#EMSC
+
+[M5.6 - NEAR S. COAST OF WESTERN HONSHU](https://www.emsc-csem.org/Earthquake/earthquake.php?id=677860)
 
 
 #觀測網地震資訊
@@ -87,8 +66,8 @@ Nodal Planes
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
-| NP1   | 209    |  73  | 22   |
-| NP2   | 112    |  69  | 161  |
+| NP1   | 152    |  76  | 30   |
+| NP2   | 54     |  61  | 164  |
 
 ![USGS_Focal_Machanism](images/20180618/us1000eu1c_moment-tensor.png)
 
@@ -106,35 +85,32 @@ Estimated Economic Losses
 
 ##GFZ
 
-F-E Region:	Taiwan	
+F-E Region:	Near S. Coast of Western Honshu	
 
-Time:	2018-02-06 15:50:43.6 UTC
+Time:	2018-06-17 22:58:34.5 UTC
 
-Magnitude:	6.3 (Mw)
+Magnitude:	5.6 (mb)
 
-Epicenter:	121.68°E  24.08°N [GeoHack]
+Epicenter:	135.61°E  34.85°N  Geohack coords
 
-Depth:	10 km
+Depth:	13 km
 
-Status:	C - confirmed
-
-###Poster
-[Taiwan M 6,3 am 06.02.2018](http://media.gfz-potsdam.de/gfz/sec21/regina/erdbebenposter/2018/gfz2018cozm-poster06_02.pdf)
+Status:	M - manually revised
 
 ###Map
-![GFZ_Map](images/20180618/gfz2018cozm.jpg)
+![GFZ_Map](images/20180618/gfz2018luwm.jpg)
 
 ###Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
-| NP1   | 293    |  85  | 176  |
-| NP2   | 123    |  86  | 5    |
+| NP1   | 155    |  51  | 68   |
+| NP2   | 60     |  33  | 155  |
 
 
-![GFZ_Focal_Machanism](images/20180618/gfz2018cozm_bb.png)
+![GFZ_Focal_Machanism](images/20180618/gfz2018luwm_bb.png)
 
-Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018cozm)
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018luwm)
 
 #地體構造
 
@@ -143,24 +119,27 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018cozm)
 #新聞
 
 ##蘋果日報
-[]()
+[大阪6.1地震4死358傷　恐有大型餘震 (動畫)](https://tw.appledaily.com/new/realtime/20180618/1375254/)
 
 ##中時電子報
-[]()
+[大阪發生規模6.1地震 交通運輸大亂](http://www.chinatimes.com/realtimenews/20180618000954-260415)
 
 ##BBC
-[]()
+[
+Video
+Deadly earthquake hits Japan](https://www.bbc.com/news/av/world-asia-44516932/deadly-earthquake-hits-japan)
+
 ##BBC中文
 []()
 
 ##CNN
-[]()
+[Japan quake: Strong tremor shakes Osaka, killing at least 3](http://cnnphilippines.com/world/2018/06/18/Earthquake-Japan-Guatemala.html)
 
 ##Guardian
 [Osaka earthquake: three people dead after 6.1-magnitude tremor](https://www.theguardian.com/world/2018/jun/18/osaka-earthquake-japan-61-magnitude-tremor)
 
 ##NHK
-[]()
+[At least 3 dead in Osaka quake](https://www3.nhk.or.jp/nhkworld/en/news/20180618_20/)
 
 
 #災害資訊
