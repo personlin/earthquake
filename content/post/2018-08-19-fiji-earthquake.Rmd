@@ -1,0 +1,139 @@
+---
+title: 2018-08-19 斐濟地震
+author: Person
+date: '2018-08-19'
+slug: fiji-earthquake
+categories:
+  - Earthquake
+tags:
+  - Subduction
+  - Fiji
+---
+
+依據美國地質調查所(USGS)資料，台灣時間19日上午8時19分，太平洋斐濟(Fiji)群島附近海域發生規模8.2強震，地震深度達563公里，屬於隱沒帶深源地震。
+
+#中央氣象局(CWB)
+
+[]()
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+[]()
+
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+#國震中心(ncree)
+
+[]()
+
+source: [NCREE](http://www.ncree.org/)
+
+#IRIS
+
+[]()
+
+#EMSC
+
+[M 8.2 - FIJI REGION](https://www.emsc-csem.org/Earthquake/earthquake.php?id=707745)
+
+
+#觀測網地震資訊
+
+## USGS
+
+2018-08-19 00:19:37 UTC 
+
+18.178°S   178.111°W 
+
+563.4 km depth
+
+###ShakeMap
+![USGS_Shakemap](images/20180819/us1000gcii_intensity.jpg)
+
+###Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 209    | 21   | -79  |
+| NP2   | 18     | 69   | -94  |
+
+![USGS_Focal_Machanism](images/20180819/us1000gcii_moment-tensor.png)
+
+Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcii#executive)
+
+###PAGER
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20180819/us1000gcii_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20180819/us1000gcii_alertecon_small.png)
+
+
+##GFZ
+
+F-E Region:	Fiji Islands Region	
+
+Time:	2018-08-19 00:19:38.6 UTC
+
+Magnitude:	8.2 (Mw)
+
+Epicenter:	178.28°W  18.03°S  Geohack coords
+
+Depth:	566 km
+
+Status:	C - confirmed
+
+###Map
+![GFZ_Map](images/20180819/gfz2018qegj.jpg)
+
+###Focal Mechanism
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 212    | 19   | -73  |
+| NP2   | 15     | 72   | -95  |
+
+
+![GFZ_Focal_Machanism](images/20180819/gfz2018qegj_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018qegj)
+
+#地體構造
+
+[Earthquake Report: Fiji, by Jay Patton](http://earthjay.com/?p=7598)
+
+#新聞
+
+##蘋果日報
+[斐濟、東加海域8.2強震　未引發海嘯及損傷](https://tw.appledaily.com/new/realtime/20180819/1413701/)
+
+##中時電子報
+[太平洋群島強震！斐濟規模8.2 東加8.0](https://www.chinatimes.com/realtimenews/20180819001036-260408)
+
+##BBC
+[Fiji earthquake map: Where did MASSIVE 8.2 quake hit? Is there a tsunami warning?](https://www.express.co.uk/news/world/1005411/fiji-earthquake-map-where-8-2-quake-hit-is-there-tsunami-warning)
+
+##BBC中文
+[]()
+
+##CNN
+[8.2-magnitude earthquake strikes in South Pacific off Fiji](https://edition.cnn.com/2018/08/18/world/earthquake-strikes-in-south-pacific/index.html)
+
+##Guardian
+[]()
+
+##NHK
+[M8.2 earthquake jolts Fiji](https://www3.nhk.or.jp/nhkworld/en/news/20180819_11/)
+
+
+#災害資訊
+
+
+
