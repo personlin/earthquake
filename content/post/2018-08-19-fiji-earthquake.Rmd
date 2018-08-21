@@ -33,7 +33,9 @@ source: [NCREE](http://www.ncree.org/)
 
 #IRIS
 
-[]()
+[Magnitude 8.2 Fiji](https://www.iris.edu/hq/retm/event/5603)
+
+[IRIS Youtube影片: M 8.2 Earthquake, Fiji—August 19, 2018](https://www.youtube.com/watch?v=6rpKstVxc1k)
 
 #EMSC
 
