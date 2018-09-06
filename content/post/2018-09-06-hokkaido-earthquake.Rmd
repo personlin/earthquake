@@ -1,0 +1,141 @@
+---
+title: 2018-09-06 北海道地震
+author: Person
+date: '2018-09-06'
+slug: hokkaido-earthquake
+categories:
+  - Earthquake
+tags:
+  - Japan
+  - Hokkaido
+---
+
+依據美國地質調查所(USGS)資料，日本時間6日上午3時7分，日本北海道發生規模6.6地震，地震深度33.4公里。
+
+#中央氣象局(CWB)
+
+[]()
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+[]()
+
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+#國震中心(ncree)
+
+[]()
+
+source: [NCREE](http://www.ncree.org/)
+
+#IRIS
+
+[]()
+
+
+#EMSC
+
+[M 6.6 - HOKKAIDO, JAPAN REGION](https://www.emsc-csem.org/Earthquake/earthquake.php?id=711209)
+
+
+#觀測網地震資訊
+
+## USGS
+
+2018-09-05 18:07:58 UTC 
+
+42.671°N 141.933°E
+
+33.4 km depth
+
+###ShakeMap
+![USGS_Shakemap]()
+
+###Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 333    | 61   |  83  |
+| NP2   | 167    | 30   | 102  |
+
+![USGS_Focal_Machanism]()
+
+Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty#executive)
+
+###PAGER
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20180906/us1000gcii_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20180906/us1000gcii_alertecon_small.png)
+
+
+##GFZ
+
+F-E Region:	Fiji Islands Region	
+
+Time:	2018-08-19 00:19:38.6 UTC
+
+Magnitude:	8.2 (Mw)
+
+Epicenter:	178.28°W  18.03°S  Geohack coords
+
+Depth:	566 km
+
+Status:	C - confirmed
+
+
+###Map
+![GFZ_Map](images/20180906/gfz2018rkrd.jpg)
+
+###Focal Mechanism
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+|  NP1  |  212   |  19  |  -73 |
+|  NP2  |   15   |  72  |  -95 |
+
+
+![GFZ_Focal_Machanism](images/20180906/gfz2018rkrd_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018rkrd)
+
+#地體構造
+
+[](http://earthjay.com/)
+
+#新聞
+
+##蘋果日報
+[北海道上修震度7級　增至9死2百傷](https://tw.appledaily.com/new/realtime/20180906/1424736/)
+
+##聯合新聞網
+[北海道凌晨6.7地震 火力電廠全停擺 295萬戶停電](https://udn.com/news/story/6812/3351422)
+
+##BBC
+[]()
+
+##BBC中文
+[]()
+
+##CNN
+[]()
+
+##Guardian
+[]()
+
+##NHK
+[]()
+
+
+#災害資訊
+
+
+
