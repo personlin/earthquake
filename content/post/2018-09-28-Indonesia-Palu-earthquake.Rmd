@@ -75,7 +75,7 @@ Estimated Fatalities
 
 Estimated Economic Losses
 
-![Estimated_Economic_Losses](images/20180928/uus1000h3p4_alertecon.png)
+![Estimated_Economic_Losses](images/20180928/us1000h3p4_alertecon.png)
 
 
 ##GFZ
