@@ -152,3 +152,7 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018rkrd)
 
 [High resolution imagery of the Palu landslides](https://blogs.agu.org/landslideblog/2018/10/03/palu-landslides-1/)
 
+[The Palu landslides – the worst landslide disaster in five years?](https://blogs.agu.org/landslideblog/2018/10/08/palu-landslides-3/)
+
+## EGU blog
+[Palu 2018 – Science and surprise behind the earthquake and tsunami](https://blogs.egu.eu/divisions/sm/2018/10/08/palu-2018-science-and-surprise-behind-the-earthquake-and-tsunami/)
