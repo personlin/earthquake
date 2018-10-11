@@ -137,7 +137,7 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018rkrd)
 [M7.5 quake rocks Sulawesi, Indonesia](https://www3.nhk.or.jp/nhkworld/en/news/20180928_40/)
 
 
-#災害資訊
+#其他相關報導
 
 ##New York Times
 [Indonesia Earthquake and Tsunami:Before-and-After Photos of the Destruction](https://www.nytimes.com/interactive/2018/10/01/world/asia/map-tsunami-indonesia.html)
@@ -154,5 +154,9 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018rkrd)
 
 [The Palu landslides – the worst landslide disaster in five years?](https://blogs.agu.org/landslideblog/2018/10/08/palu-landslides-3/)
 
-## EGU blog
+##EGU blog
 [Palu 2018 – Science and surprise behind the earthquake and tsunami](https://blogs.egu.eu/divisions/sm/2018/10/08/palu-2018-science-and-surprise-behind-the-earthquake-and-tsunami/)
+
+##gempa
+
+[Plate rupturing or landslide? What caused the tsunami after the M7.5 earthquake N of Palu, Indonesia?](https://gempa.de/news/2018/9/28/tsunami-m75-earthquake-palu-indonesia/)
