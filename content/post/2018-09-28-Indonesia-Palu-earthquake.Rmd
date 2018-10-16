@@ -147,6 +147,8 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018rkrd)
 
 [Tsunami in Sulawesi, Indonesia, triggered by earthquake, landslide, or both](http://temblor.net/earthquake-insights/tsunami-in-sulawesi-indonesia-triggered-by-earthquake-landslides-or-both-7825/)
 
+[Finding of the unexpected tsunami due to the strike-slip fault at central Sulawesi, Indonesia on 28 September 2018, from the preliminary field survey at Palu](http://temblor.net/earthquake-insights/finding-of-the-unexpected-tsunami-due-to-the-strike-slip-fault-at-central-sulawesi-indonesia-on-28-september-2018-from-the-preliminary-field-survey-at-palu-7855/)
+
 ##AGU Landslide Blog
 [Giant landslides in Palu from the 2018 Sulawesi earthquake](https://blogs.agu.org/landslideblog/2018/10/02/palu-sulawesi-earthquake-2/)
 
