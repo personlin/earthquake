@@ -15,7 +15,7 @@ tags:
 
 #中央氣象局(CWB)
 
-[]()
+[2018 年 9 月 28 日印尼蘇拉威西島地震海嘯事件說明](https://www.cwb.gov.tw/V7/news/Upload/20180928_Indonesia_Sulawesi_Earthquake.pdf)
 
 
 #台灣地震科學中心(TEC)資訊彙整
@@ -146,6 +146,8 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018rkrd)
 [The Palu-Koro fault ruptures in a M=7.5 quake in Sulawesi, Indonesia, triggering a tsunami and likely more shocks](http://temblor.net/earthquake-insights/the-palu-koro-fault-ruptures-in-a-m7-5-quake-in-sulawesi-indonesia-triggering-a-tsunami-and-likely-more-shocks-7797/)
 
 [Tsunami in Sulawesi, Indonesia, triggered by earthquake, landslide, or both](http://temblor.net/earthquake-insights/tsunami-in-sulawesi-indonesia-triggered-by-earthquake-landslides-or-both-7825/)
+
+[Finding of the unexpected tsunami due to the strike-slip fault at central Sulawesi, Indonesia on 28 September 2018, from the preliminary field survey at Palu](http://temblor.net/earthquake-insights/finding-of-the-unexpected-tsunami-due-to-the-strike-slip-fault-at-central-sulawesi-indonesia-on-28-september-2018-from-the-preliminary-field-survey-at-palu-7855/)
 
 ##AGU Landslide Blog
 [Giant landslides in Palu from the 2018 Sulawesi earthquake](https://blogs.agu.org/landslideblog/2018/10/02/palu-sulawesi-earthquake-2/)
