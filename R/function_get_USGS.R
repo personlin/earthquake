@@ -52,13 +52,13 @@ get.USGS.event.geojson <- function(eventid){
   text15 <- paste0("![USGS_Finite_Fault](images/", format(eq.time, "%Y%m%d"), "/",eventid, "_finite_fault.png)")
   text16 <- "##PAGER"
   text17 <- "Estimated Fatalities"
-  text18 <- paste0("![Estimated_Fatalities](images/", format(eq.time, "%Y%m%d"), "/",eventid, "_alertfatal.png)")
-  text17 <- "Estimated Economic Losses"
-  text18 <- paste0("![Estimated_Economic_Losses](images/", format(eq.time, "%Y%m%d"), "/",eventid, "_alertecon.png)")
+  text18 <- paste0("![Estimated_Fatalities](images/", format(eq.time, "%Y%m%d"), "/",eventid, "_alertfatal_small.png)")
+  text19 <- "Estimated Economic Losses"
+  text20 <- paste0("![Estimated_Economic_Losses](images/", format(eq.time, "%Y%m%d"), "/",eventid, "_alertecon_small.png)")
   
   cat(paste0(text1, "\n\n", text2, "\n\n", text3, "\n\n", text4, "\n\n", text5, "\n\n", text6, "\n\n", text7, "\n\n", text8, "\n\n", 
              text9, "\n", text10, "\n", text11, "\n", text12, "\n\n", text13, "\n\n", text14, "\n\n", text15, "\n\n", 
-             text16, "\n\n", text17, "\n\n", text18))
+             text16, "\n\n", text17, "\n\n", text18, "\n\n", text19, "\n\n", text20))
 }
 
 get.USGS.event <- function(eventid){

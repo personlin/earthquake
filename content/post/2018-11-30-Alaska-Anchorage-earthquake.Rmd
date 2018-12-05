@@ -75,9 +75,13 @@ Nodal Planes
 
 ##PAGER
 
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20181130/ak20419010_alertfatal_small.png)
+
 Estimated Economic Losses
 
-![Estimated_Economic_Losses](images/20181130/ak20419010_alertecon.png)
+![Estimated_Economic_Losses](images/20181130/ak20419010_alertecon_small.png)
 
 
 ##GFZ
