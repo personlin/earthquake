@@ -40,16 +40,16 @@ get.USGS.event.geojson <- function(eventid){
   text3 <- paste(eq.depth, "km", "depth")
   text4 <- "###ShakeMap"
   text5 <- paste0("[USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/",eventid,"/shakemap/intensity)")
-  text6 <- paste0("![USGS_Shakemap_img]((images/", format(eq.time, "%Y%m%d"), "/",eventid, "_intensity.jpg)")
+  text6 <- paste0("![USGS_Shakemap_img](images/", format(eq.time, "%Y%m%d"), "/",eventid, "_intensity.jpg)")
   text7 <- "###Focal Mechanism"
   text8 <- "Nodal Planes"
   text9 <- "| Plane | Strike | Dip  | Rake |"
   text10 <- "| ----- | ------ | ---- | ---- |"
   text11 <- paste("| NP1   |",  eq.node1$strike, "|", eq.node1$dip, " |", eq.node1$rake, " |")
   text12 <- paste("| NP2   |",  eq.node2$strike, "|", eq.node2$dip, " |", eq.node2$rake, " |")
-  text13 <- paste0("![USGS_Focal_Machanism]((images/", format(eq.time, "%Y%m%d"), "/",eventid, "_moment-tensor.png)")
+  text13 <- paste0("![USGS_Focal_Machanism](images/", format(eq.time, "%Y%m%d"), "/",eventid, "_moment-tensor.png)")
   text14 <- "###Finite Fault"
-  text15 <- paste0("![USGS_Finite_Fault]((images/", format(eq.time, "%Y%m%d"), "/",eventid, "_finite_fault.png)")
+  text15 <- paste0("![USGS_Finite_Fault](images/", format(eq.time, "%Y%m%d"), "/",eventid, "_finite_fault.png)")
   text16 <- "##PAGER"
   text17 <- "Estimated Fatalities"
   text18 <- paste0("![Estimated_Fatalities](images/", format(eq.time, "%Y%m%d"), "/",eventid, "_alertfatal.png)")

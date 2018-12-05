@@ -56,7 +56,7 @@ source: [NCREE](http://www.ncree.org/)
 
 [USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/ak20419010/shakemap/intensity)
 
-![USGS_Shakemap_img]((images/20181130/ak20419010_intensity.jpg)
+![USGS_Shakemap_img](images/20181130/ak20419010_intensity.jpg)
 
 ###Focal Mechanism
 
@@ -67,11 +67,11 @@ Nodal Planes
 | NP1   | 16.09 | 29.33  | -80.9  |
 | NP2   | 185.68 | 61.08  | -95.08  |
 
-![USGS_Focal_Machanism]((images/20181130/ak20419010_moment-tensor.png)
+![USGS_Focal_Machanism](images/20181130/ak20419010_moment-tensor.png)
 
 ###Finite Fault
 
-![USGS_Finite_Fault]((images/20181130/ak20419010_finite_fault.png)
+![USGS_Finite_Fault](images/20181130/ak20419010_finite_fault.png)
 
 ##PAGER
 
