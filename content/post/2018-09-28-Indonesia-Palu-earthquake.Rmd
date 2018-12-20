@@ -124,6 +124,8 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018rkrd)
 ##BBC
 [Indonesia earthquake: Hundreds dead in Palu quake and tsunami](https://www.bbc.co.uk/news/world-asia-45683630)
 
+['Surprise' Palu tsunami clue found on seafloor](https://www.bbc.com/news/science-environment-46515833)
+
 ##BBC中文
 [印尼地震海嘯災情「比預期嚴重」 災民求生的困境](https://www.bbc.com/zhongwen/trad/world-45696849)
 
