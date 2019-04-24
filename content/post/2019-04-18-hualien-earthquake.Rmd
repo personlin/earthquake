@@ -81,7 +81,7 @@ Nodal Planes
 
 ###Finite Fault
 
-![USGS_Finite_Fault](images/20190418/us700038c1_finite_fault.png)
+
 
 ##PAGER
 
