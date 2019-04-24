@@ -34,7 +34,9 @@ get.USGS.event.geojson <- function(eventid){
   png(paste0(dirpath,"/", eventid, "_moment-tensor.png"))
   plotMEC(CONVERTSDR(eq.node1$strike, eq.node1$dip, eq.node1$rake), detail = 0)
   dev.off()
-  download.file(eq.finitefault.url, paste0(dirpath,"/", eventid, "_finite_fault.png"), mode = "wb")
+  if(!is.null(eq.finitefault.url)){
+    download.file(eq.finitefault.url, paste0(dirpath,"/", eventid, "_finite_fault.png"), mode = "wb")
+  }
   text1 <- paste(format(eq.time, "%Y-%m-%d %H:%M:%S"), "(UTC)")
   text2 <- paste0(ifelse(eq.lat > 0, paste0(eq.lat,"°N"), paste0(-eq.lat,"°N")), " ", ifelse(eq.lon > 0, paste0(eq.lon,"°E"), paste0(-eq.lon,"°W")))
   text3 <- paste(eq.depth, "km", "depth")

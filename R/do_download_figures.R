@@ -23,12 +23,19 @@ library(lubridate)
 # html_nodes(webpage, xpath = '//*[@id="tablist-panel-8"]')
 
 
-url <- "https://earthquake.usgs.gov/earthquakes/eventpage/us1000gez7#executive"
+#url <- "https://earthquake.usgs.gov/earthquakes/eventpage/us1000gez7#executive"
+url <- "https://earthquake.usgs.gov/earthquakes/eventpage/us700038c1/executive"
 id <- url %>% 
   read_html() %>%
-  html_node('body .page .page-content .event-content a') %>%
+  html_node(xpath = '//*[@id="hazdev-page-header"]') %>%
   html_attr("href") %>%
   str_extract("\\d{13}")
+
+
+# read_html("https://earthquake.usgs.gov/earthquakes/eventpage/us1000h3p4/executive") %>%
+url %>% 
+  read_html() %>% 
+  html_nodes(xpath = "//*/div[@class='hazdev-page-content']")
 
 # shakemap
 # https://earthquake.usgs.gov/realtime/product/dyfi/us1000gez7/us/1535259951585/us1000gez7_ciim_geo.jpg
