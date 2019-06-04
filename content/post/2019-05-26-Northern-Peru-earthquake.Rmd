@@ -145,3 +145,7 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2019kfne)
 ##Temblor
 [Deep earthquake in Peru is felt along the length of South America: More to follow?](http://temblor.net/earthquake-insights/deep-earthquake-in-peru-is-felt-along-the-length-of-south-america-8710/)
 
+##PEER
+[StEER Report on May 29, 2019 Peru Earthquake](https://peer.berkeley.edu/news/steer-report-may-29-2019-peru-earthquake)
+
+Access the report from this link: [https://aub.ie/steer_EQ_lagunaperu](https://aub.ie/steer_EQ_lagunaperu)
