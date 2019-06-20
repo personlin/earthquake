@@ -100,3 +100,5 @@ get.USGS.event <- function(eventid){
   download.file(url.pager2, paste0(img.folder,"/",eventid,"_alertecon_small.png"), mode = "wb")
   
 }
+
+get.USGS.event.geojson("us600042fx")

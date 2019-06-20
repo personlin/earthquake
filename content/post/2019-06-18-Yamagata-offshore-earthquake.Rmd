@@ -1,0 +1,163 @@
+---
+title: 2019-06-18 日本山形縣地震
+author: Person
+date: '2019-06-18'
+slug: Yamagata-earthquake
+categories:
+  - Earthquake
+tags:
+  - Japan
+  - crustal
+  - tsunami
+---
+
+依據美國地質調查所(USGS)資料，台灣時間6月18日晚上9點22分，日本山形縣外海發生規模6.7強震，地震深度約12公里，
+日本氣象廳在地震發生後也立刻發出海嘯及避難警報。
+
+#日本氣象聽(JMA)
+
+[震源・震度に関する情報](http://www.jma.go.jp/jp/quake/20190618132623393-18222224.html)
+
+#日本防災科學技術研究所(NIED)
+
+[2019年6月18日 山形県沖の地震](http://www.hinet.bosai.go.jp/topics/yamagata190618/)
+
+#中央氣象局(CWB)
+
+[]()
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+[]()
+
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+#國震中心(ncree)
+
+[]()
+
+source: [NCREE](http://www.ncree.org/)
+
+#IRIS
+
+[]()
+
+
+#EMSC
+
+[M 6.5 - NEAR WEST COAST OF HONSHU, JAPAN](https://www.emsc-csem.org/Earthquake/earthquake.php?id=772036)
+
+
+#觀測網地震資訊
+
+## USGS
+
+
+2019-06-18 13:22:19 (UTC)
+
+38.646°N 139.4723°E
+
+12 km depth
+
+###ShakeMap
+
+[USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us600042fx/shakemap/intensity)
+
+![USGS_Shakemap_img](images/20190618/us600042fx_intensity.jpg)
+
+###Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 26.76 | 38  | 87.74  |
+| NP2   | 209.62 | 52.03  | 91.77  |
+
+![USGS_Focal_Machanism](images/20190618/us600042fx_moment-tensor.png)
+
+###Finite Fault
+
+![USGS_Finite_Fault](images/20190618/us600042fx_finite_fault.png)
+
+##PAGER
+
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20190618/us600042fx_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20190618/us600042fx_alertecon_small.png)
+
+
+##GFZ
+
+F-E Region:	Near West Coast of Honshu, Japan	
+
+Time:	2019-06-18 13:22:21.8 UTC
+
+Magnitude:	6.4 (Mw)
+
+Epicenter:	139.38°E  38.63°N  Geohack coords
+
+Depth:	20 km
+
+Status:	M - manually revised
+
+###Map
+![GFZ_Map](images/20190618/gfz2019lvyz.jpg)
+
+###Focal Mechanism
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+|  NP1  |  203   |  55  |  85  |
+|  NP2  |   32   |  35  |  97  |
+
+
+![GFZ_Focal_Machanism](images/20190618/gfz2019lvyz_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2019lvyz)
+
+#地體構造
+
+[]()
+
+
+#新聞
+
+##蘋果日報
+[日山形外海6.7地震釀26傷　多處土壤液化路面塌陷](https://tw.appledaily.com/new/realtime/20190619/1586192)
+
+##聯合新聞網
+[日本新潟地震芮氏規模6.8 有海嘯風險](https://udn.com/news/story/6656/3879515)
+
+##中時電子報
+[日本山形縣海岸規模6.8地震 發布海嘯預警](https://www.chinatimes.com/realtimenews/20190618004527-260408?chdtv)
+
+##ETtoday新聞
+[新潟6.7強震釀21傷　土壤液化「半個輪胎陷地面」馬路成湖泊](https://www.ettoday.net/news/20190619/1470556.htm#ixzz5rMoa40mP )
+
+##BBC
+[]()
+
+##CNN
+[Tsunamis warning lifted in Japanese coastal regions after earthquake](https://edition.cnn.com/2019/06/18/asia/japan-tsunami-warning-intl/index.html)
+
+##Guardian
+[]()
+
+##NHK
+[Strong quake hits off coast of northern Japan](https://www3.nhk.or.jp/nhkworld/en/news/20190619_02/)
+
+[M6.7 quake hits northern Japan, injuring 26](https://www3.nhk.or.jp/nhkworld/en/news/20190619_44/)
+
+#其他相關報導
+
+##Temblor
+[)
+
