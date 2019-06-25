@@ -79,10 +79,6 @@ Nodal Planes
 
 ![USGS_Focal_Machanism](images/20190618/us600042fx_moment-tensor.png)
 
-###Finite Fault
-
-![USGS_Finite_Fault](images/20190618/us600042fx_finite_fault.png)
-
 ##PAGER
 
 Estimated Fatalities
@@ -159,5 +155,5 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2019lvyz)
 #其他相關報導
 
 ##Temblor
-[)
+[]
 
