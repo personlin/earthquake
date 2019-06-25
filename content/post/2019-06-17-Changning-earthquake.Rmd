@@ -1,0 +1,148 @@
+---
+title: 2019-06-17 中國四川長寧地震
+author: Person
+date: '2019-06-18'
+slug: Changning-earthquake
+categories:
+  - Earthquake
+tags:
+  - China
+  - crustal
+---
+
+依據美國地質調查所(USGS)資料，台灣時間6月17日晚上10點55分，中國四川宜賓市長寧縣發生規模6.7強震，地震深度約10公里，
+屬於淺源地震，地震已知造成多棟房屋倒塌並有傷亡傳出。
+
+#中央氣象局(CWB)
+
+[]()
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+[]()
+
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+#國震中心(ncree)
+
+[]()
+
+source: [NCREE](http://www.ncree.org/)
+
+#IRIS
+
+[]()
+
+
+#EMSC
+
+[M 5.9 - EASTERN SICHUAN, CHINA](https://www.emsc-csem.org/Earthquake/earthquake.php?id=771884)
+
+
+#觀測網地震資訊
+
+## USGS
+
+
+2019-06-17 14:55:45 (UTC)
+
+28.4051°N 104.9572°E
+
+10 km depth
+
+###ShakeMap
+
+[USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us600041ry/shakemap/intensity)
+
+![USGS_Shakemap_img](images/20190617/us600041ry_intensity.jpg)
+
+###Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 307.9 | 44.82  | 39.86  |
+| NP2   | 187.26 | 63.14  | 127.33  |
+
+![USGS_Focal_Machanism](images/20190617/us600041ry_moment-tensor.png)
+
+
+##PAGER
+
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20190617/us600041ry_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20190617/us600041ry_alertecon_small.png)
+
+
+##GFZ
+
+F-E Region:	Sichuan, China	
+
+Time:	2019-06-17 14:55:46.2 UTC
+
+Magnitude:	5.8 (Mw)
+
+Epicenter:	104.94°E  28.43°N  Geohack coords
+
+Depth:	10 km
+
+Status:	C - confirmed
+
+###Map
+
+![GFZ_Map](images/20190618/gfz2019lugo.jpg)
+
+###Focal Mechanism
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+|  NP1  |  192   |  46  | 137  |
+|  NP2  |  315   |  61  |  53  |
+
+
+![GFZ_Focal_Machanism](images/20190618/gfz2019lugo_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2019lugo)
+
+#地體構造
+
+[]()
+
+
+#新聞
+
+##蘋果日報
+[【四川地震】宜賓規模6地震死傷遽增　至少13死134人傷](https://tw.appledaily.com/new/realtime/20190618/1585621/)
+
+##聯合新聞網
+[四川宜賓深夜連五震最大規模6 傳12死、134人傷](https://udn.com/news/story/7332/3877754)
+
+##中時電子報
+[四川6.0地震11死 震感10餘秒有房舍倒塌](https://www.chinatimes.com/realtimenews/20190617003964-260409?chdtv)
+
+##ETtoday新聞
+[四川深夜5連震釀13死200傷！罹難者名單公佈](https://www.ettoday.net/news/20190618/1469485.htm)
+
+##BBC
+[Deadly earthquake hits China's Sichuan province](https://www.bbc.co.uk/news/world-asia-china-48675023)
+
+##CNN
+[]()
+
+
+##NHK
+[]()
+
+#其他相關報導
+
+##Temblor
+[]()
+
