@@ -1,0 +1,150 @@
+---
+title: 2019-07-06 美國南加州地震
+author: Person
+date: '2019-07-06'
+slug: Ridgecrest-earthquake
+categories:
+  - Earthquake
+tags:
+  - California
+  - crustal
+---
+
+依據美國地質調查所(USGS)資料，台灣時間7月6日上午11點19分，美國南加州發生規模7.0強震，震央在Ridgecrest附近，地震深度約8公里，該地區在2天前才發生過[規模6.4](https://earthquake.usgs.gov/earthquakes/eventpage/ci38443183/executive)的前震。
+
+#中央氣象局(CWB)
+
+[]()
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+[2019-07-06 Mw6.9 南加州地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2019-07-06_Mw6.9-California.pdf)
+
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+#國震中心(ncree)
+
+[]()
+
+source: [NCREE](http://www.ncree.org/)
+
+#IRIS
+
+[Special Event: Central California](http://ds.iris.edu/ds/nodes/dmc/specialevents/2019/07/04/central-california/)
+
+
+#EMSC
+
+[M 7.1 - SOUTHERN CALIFORNIA](https://www.emsc-csem.org/Earthquake/earthquake.php?id=775626)
+
+
+#觀測網地震資訊
+
+## USGS
+
+
+2019-07-06 03:19:53 (UTC)
+
+35.7695°N 117.5993333°W
+
+8 km depth
+
+###ShakeMap
+
+[USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/shakemap/intensity)
+
+![USGS_Shakemap_img](images/20190706/ci38457511_intensity.jpg)
+
+###Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 160 | 84  | -165  |
+| NP2   | 68 | 75  | -6  |
+
+![USGS_Focal_Machanism](images/20190706/ci38457511_moment-tensor.png)
+
+###Finite Fault
+
+![USGS_Finite_Fault](images/20190706/ci38457511_finite_fault.png)
+
+##PAGER
+
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20190706/ci38457511_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20190706/ci38457511_alertecon_small.png)
+
+
+##GFZ
+
+F-E Region:	Central California	
+
+Time:	2019-07-06 03:19:57.9 UTC
+
+Magnitude:	7.0 (Mw)
+
+Epicenter:	117.58°W  35.76°N
+
+Depth:	10 km
+
+Status:	C - confirmed
+
+###Map
+![GFZ_Map](images/20190706/gfz2019ncce.jpg)
+
+###Focal Mechanism
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+|  NP1  |  140   |  76  | 167  |
+|  NP2  |  233   |  78  |  14  |
+
+![GFZ_Focal_Machanism](images/20190706/gfz2019ncce_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2019ncce)
+
+#地體構造
+
+[M 6.4 Ridgecrest](http://earthjay.com/?p=8656)
+[M 6.4 / 7.1 Ridgecrest Update #1](http://earthjay.com/?p=8706)
+[M 6.4 / 7.1 Ridgecrest Update #2](http://earthjay.com/?p=8806)
+[M 6.4 / 7.1 Ridgecrest Update #3](http://earthjay.com/?p=8850)
+
+
+#新聞
+
+##聯合新聞網
+[25年來最強！南加州大地震規模達7.1 恐還有強烈餘震](https://udn.com/news/story/6811/3913335)
+
+##中時電子報
+[震不停！7.1強震襲南加州 25年來最強](https://www.chinatimes.com/realtimenews/20190706001294-260408?chdtv)
+
+##ETtoday新聞
+[南加州7.1地震是主震「威力比前震強11倍」！　釀火災房屋受損多人傷](https://www.ettoday.net/news/20190706/1483699.htm)
+
+##BBC
+[California earthquake: Power 'restored to most' after 7.1-magnitude quake](https://www.bbc.com/news/world-us-canada-48891511)
+
+##CNN
+[Earthquakes put Ridgecrest residents on edge: 'Nobody in this town has slept for days'](https://edition.cnn.com/2019/07/05/us/california-earthquake/index.html)
+
+##Guardian
+[California braced for more aftershocks after 7.1 magnitude earthquake](https://www.theguardian.com/us-news/2019/jul/05/southern-california-ridgecrest-earthquake-aftershocks-damage)
+
+##NHK
+[]()
+
+#其他相關報導
+
+##Temblor
+[Magnitude 7.1 earthquake rips northwest from the M6.4 just 34 hours later](https://temblor.net/earthquake-insights/magnitude-7-1-earthquake-rips-northwest-from-the-m6-4-just-34-hours-later-9041/)
+
