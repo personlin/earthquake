@@ -1,0 +1,160 @@
+---
+title: 2019-08-08 宜蘭外海地震
+author: Person
+date: '2019-08-08'
+slug: ilan-earthquake
+categories:
+  - Earthquake
+tags:
+  - Crustal
+  - Taiwan
+---
+
+宜蘭外海在2019/08/08清晨5時28分發生ML規模6.0的地震，震源深度22.5公里，是走向滑移機制的地震，屬於地殼地震。
+宜蘭縣市的震度達到六級，而鄰近的台北、新竹、桃園、台中及花蓮亦有高達四級的震度。
+
+
+
+#中央氣象局(CWB)
+
+[地震報告050](https://www.cwb.gov.tw/V7/earthquake/Data/quake/EC0418130161031.htm)
+
+##地震報告
+
+![EC0418130161031](images/20190418/EC0418130161031.gif)
+
+
+##等震度圖
+
+![2019031contour](images/20190418/2019031contour.gif)
+
+
+##震源機制
+
+![2019031cmt](images/20190418/2019031cmt.gif)
+
+
+Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+[2019-08-08 ML 6.0 宜蘭外海 淺層地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2019-08-08_M6.0.pdf)
+
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+#國震中心(ncree)
+
+[2019-08-08 宜蘭地震資訊](https://www.ncree.narl.org.tw/assets/file/20190808_%E5%AE%9C%E8%98%AD%E5%9C%B0%E9%9C%87%E5%BD%99%E6%95%B4%E7%B0%A1%E5%A0%B1_V2.0.pdf)
+
+
+#IRIS
+
+[]()
+
+
+#觀測網地震資訊
+
+## USGS
+2019-08-07 21:28:03 (UTC)
+
+24.4808°N 121.9326°E
+
+20.34 km depth
+
+###ShakeMap
+
+[USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us6000522g/shakemap/intensity)
+
+![USGS_Shakemap_img](images/20190807/us6000522g_intensity.jpg)
+
+###Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 88.37 | 53.71  | 13.01  |
+| NP2   | 350.58 | 79.55  | 143  |
+
+![USGS_Focal_Machanism](images/20190807/us6000522g_moment-tensor.png)
+
+###Finite Fault
+
+![USGS_Finite_Fault](images/20190807/us6000522g_finite_fault.png)
+
+##PAGER
+
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20190807/us6000522g_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20190807/us6000522g_alertecon_small.png)
+
+
+##GFZ
+
+F-E Region:	Taiwan	
+
+Time:	2019-08-07 21:28:03.2 UTC
+
+Magnitude:	5.8 (Mw)
+
+Epicenter:	121.94°E  24.50°N
+
+Depth:	10 km
+
+Status:	C - confirmed
+
+
+###Poster
+
+
+###Map
+![GFZ_Map](images/20190418/gfz2019pjye.jpg)
+
+###Focal Mechanism
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 356    |  73  | 174  |
+| NP2   |  87    |  85  |  17  |
+
+
+![GFZ_Focal_Machanism](images/20190418/gfz2019pjye_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2019pjye)
+
+#地體構造
+
+
+
+#新聞
+
+##蘋果日報
+[13:01花蓮6.1強震釋放0.7顆原子彈能量　秀林46年最大震](https://tw.appledaily.com/new/realtime/20190418/1552633/)
+
+##中時電子報
+[6.1強震！花蓮銅門震度7級 46年來最大震](https://www.chinatimes.com/realtimenews/20190418002137-260405?chdtv)
+
+##聯合新聞網
+[全台超有感地震！花蓮強震規模6.1 花蓮銅門7級](https://udn.com/news/story/7266/3763062)
+
+##BBC
+
+##BBC中文
+
+##CNN
+[6.1-magnitude earthquake hits Taiwan](http://cnnphilippines.com/world/2019/4/18/Taiwan-earthquake.html)
+
+##Guardian
+
+##NHK
+[M6.1 earthquake hits eastern Taiwan](https://www3.nhk.or.jp/nhkworld/en/news/20190418_30/)
+
+
+

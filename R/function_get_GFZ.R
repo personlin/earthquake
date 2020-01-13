@@ -47,5 +47,3 @@ get.GFZ <- function(eventid){
 }
 
 
-# 2019-08-08 宜蘭地震
-get.GFZ("gfz2019pjye")
