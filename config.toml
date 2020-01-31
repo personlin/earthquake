@@ -1,5 +1,5 @@
 baseurl = "http://earthquake.personlin.com"
-title = "Earthquake information blog"
+title = "地震資訊 Earthquake information blog"
 languageCode = "zh-tw"
 paginate = "10"
 theme = "Mainroad"
