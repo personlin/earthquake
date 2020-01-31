@@ -1,0 +1,150 @@
+---
+title: 2020-01-28 牙買加地震地震
+author: Person
+date: '2020-01-28'
+slug: Jamacia-earthquake
+categories:
+  - Earthquake
+tags:
+  - Jamacia
+  - Cuba
+  - crustal
+---
+
+依據美國地質調查所(USGS)資料，在古巴與牙買加之間的海域於當地時間28日下午2點10分，發生了規模7.7的地震，震源深度約10公里。
+地震震撼了加勒比海地區，連遠在美國佛羅里達州的人都可以感受到搖晃。
+
+#中央氣象局(CWB)
+
+[]()
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+[]()
+
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+#國震中心(ncree)
+
+[]()
+
+source: [NCREE](http://www.ncree.org/)
+
+#IRIS
+
+[]()
+
+
+#EMSC
+
+[M 7.7 - CUBA REGION](https://www.emsc-csem.org/Earthquake/earthquake.php?id=824193)
+
+
+#觀測網地震資訊
+
+## USGS
+
+
+2020-01-28 19:10:25 (UTC)
+
+19.44°N 78.7545°W
+
+10 km depth
+
+###ShakeMap
+
+[USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us60007idc/shakemap/intensity)
+
+![USGS_Shakemap_img](images/20200128/us60007idc_intensity.jpg)
+
+###Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 167.44 | 67.9  | -175.39  |
+| NP2   | 75.7 | 85.73  | -22.16  |
+
+![USGS_Focal_Machanism](images/20200128/us60007idc_moment-tensor.png)
+
+###Finite Fault
+
+![USGS_Finite_Fault](images/20200128/us60007idc_finite_fault.png)
+
+##PAGER
+
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20200128/us60007idc_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20200128/us60007idc_alertecon_small.png)
+
+
+##GFZ
+
+F-E Region Cuba Region
+
+Time 2020-01-28 19:10:26.6 UTC
+
+Magnitude 7.7 (Mw)
+
+Epicenter 78.74°W, 19.37°N
+
+Depth 10 km
+
+Status C - confirmed 
+
+###Map
+
+![GFZ_Map](images/20200128/gfz2020byun.jpg)
+
+###Focal Mechanism
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 356   |   73   |   174 |
+| NP2   | 87   |   85   |   17 |
+
+![GFZ_Focal_Machanism](images/20200128/gfz2020byun_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2020byun)
+
+#地體構造
+
+[Earthquake Report: Puerto Rico!](http://earthjay.com/?p=9322)
+
+
+#新聞
+
+##聯合新聞網
+[牙買加遭規模7.7強震襲擊發布海嘯警報](https://udn.com/news/story/6809/4309466)
+
+##中時電子報
+[]()
+
+##ETtoday新聞
+[牙買加外海爆「規模7.7極淺層地震」美國秒發海嘯警報](https://www.ettoday.net/news/20200129/1633689.htm)
+
+##BBC
+[Caribbean earthquake of 7.7 prompts office evacuations in Miami](https://www.bbc.com/news/world-latin-america-51287493)
+
+##CNN
+[Magnitude 7.7 earthquake strikes off the coast of Jamaica and is felt as far away as Miami](https://edition.cnn.com/2020/01/28/americas/earthquake-caribbean-sea/index.html)
+
+##Guardian
+[Strong earthquake shakes vast area from Mexico to Florida](https://www.theguardian.com/world/2020/jan/28/earthquake-tsunami-warning-cuba-jamaica-cayman-islands)
+
+##NHK
+[USGS: Magnitude 7.7 quake hits off Jamaica](https://www3.nhk.or.jp/nhkworld/en/news/20200129_11/)
+
+#其他相關報導
+
+##Temblor
+[]()
+
