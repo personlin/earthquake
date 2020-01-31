@@ -71,7 +71,7 @@ Nodal Planes
 
 ###Finite Fault
 
-![USGS_Finite_Fault](images/20200107/us70006vll_finite_fault.png)
+![]()
 
 ##PAGER
 
@@ -115,7 +115,7 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2020alpr)
 
 #地體構造
 
-[Earthquake Report: Puerto Rico!](http://earthjay.com/earthquake-report-puerto-rico/)
+[Earthquake Report: Puerto Rico!](http://earthjay.com/?p=9232)
 
 
 #新聞
