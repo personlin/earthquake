@@ -3,7 +3,7 @@ source("R/function_get_USGS.R")
 source("R/function_get_GFZ.R")
 
 
-# Get EQ info from USGS
+# Get EQ info from USGS ----
 
 #2019-06-18 日本山形縣地震
 get.USGS.event.geojson("us600042fx")
@@ -20,7 +20,7 @@ get.USGS.event.geojson("us6000522g")
 #2020-01-07 波多黎各地震
 get.USGS.event.geojson("us70006vll")
 
-# Get EQ info from GFZ
+# Get EQ info from GFZ ----
 
 # 2019-08-08 宜蘭地震
 get.GFZ("gfz2019pjye")
