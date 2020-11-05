@@ -1,0 +1,156 @@
+---
+title: 2020-10-30 愛琴海地震
+author: Person
+date: '2020-01-28'
+slug: aegean-sea-earthquake
+categories:
+  - Earthquake
+tags:
+  - Aegean-sea
+  - Greece
+  - Turkey
+  - crustal
+---
+
+依據美國地質調查所(USGS)資料，愛琴海地區於當地時間30日下午1點51分（台灣時間晚間7點51分），
+發生了規模7.0的地震，震源深度約21公里。
+土耳其臨近震央的伊茲米爾市（Izmir）有20多棟建築震垮，已至少12人死亡，419人受傷。
+希臘方面則傳出薩摩斯島（Samos）有2名青少年被倒塌的牆壁壓死。
+
+#中央氣象局(CWB)
+
+[]()
+
+
+#台灣地震科學中心(TEC)資訊彙整
+
+[希臘 愛琴海地震](https://tec.earth.sinica.edu.tw/upload/news/EQfile/2020-10-30MW7.0.pdf)
+
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+#國震中心(ncree)
+
+[]()
+
+source: [NCREE](http://www.ncree.org/)
+
+#IRIS
+
+[]()
+
+
+#EMSC
+
+[M 7.0 - DODECANESE ISLANDS, GREECE](https://www.emsc-csem.org/Earthquake/earthquake.php?id=915787)
+
+
+#觀測網地震資訊
+
+## USGS
+
+[Magnitude 7 Earthquake Off the Coast of Greece and Turkey](https://www.usgs.gov/news/magnitude-7-earthquake-coast-greece-and-turkey)
+
+2020-10-30 11:51:27 (UTC)
+
+37.9175°N 26.7901°E
+
+21 km depth
+
+###ShakeMap
+
+[USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us7000c7y0/shakemap/intensity)
+
+![USGS_Shakemap_img](images/20201030/us7000c7y0_intensity.jpg)
+
+###Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 275.93 | 29.48  | -87.78  |
+| NP2   | 93.37 | 60.55  | -91.26  |
+
+![USGS_Focal_Machanism](images/20201030/us7000c7y0_moment-tensor.png)
+
+###Finite Fault
+
+![USGS_Finite_Fault](images/20201030/us7000c7y0_finite_fault.png)
+
+##PAGER
+
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20201030/us7000c7y0_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20201030/us7000c7y0_alertecon_small.png)
+
+
+##GFZ
+
+[Severe earthquake in the Aegean Sea](https://www.gfz-potsdam.de/en/media-and-communication/news/details/article/severe-earthquake-in-the-aegean-sea/)
+
+F-E Region Dodecanese Islands, Greece
+
+Time 2020-10-30 11:51:27.3 UTC
+
+Magnitude 7.0 (Mw)
+
+Epicenter 26.82°E, 37.90°N
+
+Depth 10 km
+
+Status C - confirmed 
+
+###Map
+
+![GFZ_Map](images/20201030/gfz2020vimx.jpg)
+
+###Focal Mechanism
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 356   |   73   |   174 |
+| NP2   | 87   |   85   |   17 |
+
+![GFZ_Focal_Machanism](images/20201030/gfz2020vimx_bb.png)
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2020vimx)
+
+#地體構造
+
+[Earthquake Report: Turkey!](http://earthjay.com/?p=9644)
+
+
+#新聞
+
+##聯合新聞網
+[引發海嘯！愛情海強震傷亡數不斷攀升！土耳其希臘22死近800人受傷](https://udn.com/news/story/6809/4977728)
+
+##中時電子報
+[愛琴海7.0強震引發海嘯！土耳其、希臘共22人罹難、近800人受傷](https://www.chinatimes.com/realtimenews/20201030005638-260408?chdtv)
+
+##ETtoday新聞
+[「7.0強震」突襲希臘！土耳其也狂搖　海水倒灌...建築倒塌](https://www.ettoday.net/news/20201030/1843515.htm)
+
+##BBC
+[Earthquake hits Greece and Turkey, bringing deaths and floods](https://www.bbc.com/news/world-europe-54749509)
+
+##CNN
+[Powerful earthquake jolts Turkey and Greece, killing at least 27](https://edition.cnn.com/2020/10/30/europe/earthquake-greece-turkey-aegean-intl/index.html)
+
+##Guardian
+['Everywhere was collapsing': powerful earthquake hits Turkey and Greece – video report](https://www.theguardian.com/world/video/2020/oct/30/everywhere-was-collapsing-powerful-earthquake-hits-turkey-and-greece-video-report)
+
+##NHK
+[M7 quake kills 23 in Turkey, Greece](https://www3.nhk.or.jp/nhkworld/en/news/20201031_05/)
+
+#其他相關報導
+
+##Temblor
+[Magnitude-7.0 quake strikes Aegean Sea](https://temblor.net/earthquake-insights/magnitude-7-0-quake-strikes-aegean-sea-12006/)
+
