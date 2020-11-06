@@ -13,21 +13,21 @@ tags:
 花蓮2019/04/18發生ML規模6.1的地震，震源深度18.8公里，是逆衝機制的地震，屬於地殼地震。
 
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 [地震報告031](https://www.cwb.gov.tw/V7/earthquake/Data/quake/EC0418130161031.htm)
 
-##地震報告
+## 地震報告
 
 ![EC0418130161031](images/20190418/EC0418130161031.gif)
 
 
-##等震度圖
+## 等震度圖
 
 ![2019031contour](images/20190418/2019031contour.gif)
 
 
-##震源機制
+## 震源機制
 
 ![2019031cmt](images/20190418/2019031cmt.gif)
 
@@ -35,7 +35,7 @@ tags:
 Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 [2019-04-18 ML 6.1 花蓮縣秀林鄉淺層地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2019-04-18_M6.1.pdf)
 
@@ -43,17 +43,17 @@ Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#國震中心(ncree)
+# 國震中心(ncree)
 
 [2019-04-18 花蓮地震資訊 Hualian Earthquake Information](https://www.ncree.org/EarthquakeInfo/20190418_%E8%8A%B1%E8%93%AE%E5%9C%B0%E9%9C%87%E5%BD%99%E6%95%B4%E7%B0%A1%E5%A0%B1_V3.2.pdf)
 
 
-#IRIS
+# IRIS
 
 [Mww6.1 Taiwan](http://ds.iris.edu/ds/nodes/dmc/tools/event/11027165)
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 2019-04-18 05:01:06 (UTC)
@@ -62,13 +62,13 @@ Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 20 km depth
 
-###ShakeMap
+### ShakeMap
 
 [USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us700038c1/shakemap/intensity)
 
 ![USGS_Shakemap_img](images/20190418/us700038c1_intensity.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -79,11 +79,11 @@ Nodal Planes
 
 ![USGS_Focal_Machanism](images/20190418/us700038c1_moment-tensor.png)
 
-###Finite Fault
+### Finite Fault
 
 
 
-##PAGER
+## PAGER
 
 Estimated Fatalities
 
@@ -94,7 +94,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20190418/us700038c1_alertecon_small.png)
 
 
-##GFZ
+## GFZ
 
 F-E Region:	Taiwan	
 
@@ -109,13 +109,13 @@ Depth:	27 km
 Status:	M - manually revised
 
 
-###Poster
+### Poster
 
 
-###Map
+### Map
 ![GFZ_Map](images/20190418/gfz2019hnwt.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
@@ -127,31 +127,31 @@ Status:	M - manually revised
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2019hnwt)
 
-#地體構造
+# 地體構造
 
 
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [13:01花蓮6.1強震釋放0.7顆原子彈能量　秀林46年最大震](https://tw.appledaily.com/new/realtime/20190418/1552633/)
 
-##中時電子報
+## 中時電子報
 [6.1強震！花蓮銅門震度7級 46年來最大震](https://www.chinatimes.com/realtimenews/20190418002137-260405?chdtv)
 
-##聯合新聞網
+## 聯合新聞網
 [全台超有感地震！花蓮強震規模6.1 花蓮銅門7級](https://udn.com/news/story/7266/3763062)
 
-##BBC
+## BBC
 
-##BBC中文
+## BBC中文
 
-##CNN
+## CNN
 [6.1-magnitude earthquake hits Taiwan](http://cnnphilippines.com/world/2019/4/18/Taiwan-earthquake.html)
 
-##Guardian
+## Guardian
 
-##NHK
+## NHK
 [M6.1 earthquake hits eastern Taiwan](https://www3.nhk.or.jp/nhkworld/en/news/20190418_30/)
 
 

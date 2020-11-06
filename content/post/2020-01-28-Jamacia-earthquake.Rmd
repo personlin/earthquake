@@ -14,12 +14,12 @@ tags:
 依據美國地質調查所(USGS)資料，在古巴與牙買加之間的海域於當地時間28日下午2點10分，發生了規模7.7的地震，震源深度約10公里。
 地震震撼了加勒比海地區，連遠在美國佛羅里達州的人都可以感受到搖晃。
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 []()
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 []()
 
@@ -27,23 +27,23 @@ tags:
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#國震中心(ncree)
+# 國震中心(ncree)
 
 []()
 
 source: [NCREE](http://www.ncree.org/)
 
-#IRIS
+# IRIS
 
 []()
 
 
-#EMSC
+# EMSC
 
 [M 7.7 - CUBA REGION](https://www.emsc-csem.org/Earthquake/earthquake.php?id=824193)
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 
@@ -54,13 +54,13 @@ source: [NCREE](http://www.ncree.org/)
 
 10 km depth
 
-###ShakeMap
+### ShakeMap
 
 [USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us60007idc/shakemap/intensity)
 
 ![USGS_Shakemap_img](images/20200128/us60007idc_intensity.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -71,11 +71,11 @@ Nodal Planes
 
 ![USGS_Focal_Machanism](images/20200128/us60007idc_moment-tensor.png)
 
-###Finite Fault
+### Finite Fault
 
 ![USGS_Finite_Fault](images/20200128/us60007idc_finite_fault.png)
 
-##PAGER
+## PAGER
 
 Estimated Fatalities
 
@@ -86,7 +86,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20200128/us60007idc_alertecon_small.png)
 
 
-##GFZ
+## GFZ
 
 F-E Region Cuba Region
 
@@ -100,11 +100,11 @@ Depth 10 km
 
 Status C - confirmed 
 
-###Map
+### Map
 
 ![GFZ_Map](images/20200128/gfz2020byun.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
@@ -115,36 +115,36 @@ Status C - confirmed
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2020byun)
 
-#地體構造
+# 地體構造
 
 [Earthquake Report: Puerto Rico!](http://earthjay.com/?p=9322)
 
 
-#新聞
+# 新聞
 
-##聯合新聞網
+## 聯合新聞網
 [牙買加遭規模7.7強震襲擊發布海嘯警報](https://udn.com/news/story/6809/4309466)
 
-##中時電子報
+## 中時電子報
 []()
 
-##ETtoday新聞
+## ETtoday新聞
 [牙買加外海爆「規模7.7極淺層地震」美國秒發海嘯警報](https://www.ettoday.net/news/20200129/1633689.htm)
 
-##BBC
+## BBC
 [Caribbean earthquake of 7.7 prompts office evacuations in Miami](https://www.bbc.com/news/world-latin-america-51287493)
 
-##CNN
+## CNN
 [Magnitude 7.7 earthquake strikes off the coast of Jamaica and is felt as far away as Miami](https://edition.cnn.com/2020/01/28/americas/earthquake-caribbean-sea/index.html)
 
-##Guardian
+## Guardian
 [Strong earthquake shakes vast area from Mexico to Florida](https://www.theguardian.com/world/2020/jan/28/earthquake-tsunami-warning-cuba-jamaica-cayman-islands)
 
-##NHK
+## NHK
 [USGS: Magnitude 7.7 quake hits off Jamaica](https://www3.nhk.or.jp/nhkworld/en/news/20200129_11/)
 
-#其他相關報導
+# 其他相關報導
 
-##Temblor
+## Temblor
 [More unrest in the Caribbean as Jamaica is struck by a magnitude 7.7 earthquake](https://temblor.net/earthquake-insights/more-unrest-in-the-caribbean-as-jamaica-is-struck-by-a-magnitude-7-7-earthquake-10473/)
 

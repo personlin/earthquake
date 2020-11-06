@@ -17,26 +17,26 @@ tags:
 
 20180206 event is a crustal event.
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 [地震事件說明](http://www.cwb.gov.tw/V7/)
 
 [地震報告008](http://www.cwb.gov.tw/V7/earthquake/Data/quake/EC0204215658008.htm)
 [地震報告022](http://www.cwb.gov.tw/V7/earthquake/Data/quake/EC0206235060022.htm)
 
-##地震報告
+## 地震報告
 
 ![EC0204215658008](images/20180206/EC0204215658008.gif)
 
 ![EC0206235060022](images/20180206/EC0206235060022.gif)
 
-##等震度圖
+## 等震度圖
 
 ![2018008contour](images/20180206/2018008contour.gif)
 
 ![2018022contou](images/20180206/2018022contour.gif)
 
-##震源機制
+## 震源機制
 
 ![2018008cmt](images/20180206/2018008cmt.gif)
 
@@ -45,7 +45,7 @@ tags:
 Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 [2018-02-04 ML 5.8 花蓮外海地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2018-02-04M5.8.pdf)
 
@@ -57,7 +57,7 @@ Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#國震中心(ncree)
+# 國震中心(ncree)
 
 [2018-02-06 花蓮地震概要 (V7.2)](http://www.ncree.org/EarthquakeInfo/20180206/0206%E8%8A%B1%E8%93%AE%E5%9C%B0%E9%9C%87%E5%BD%99%E6%95%B4%E7%B0%A1%E5%A0%B1_V7.2.pdf)
 
@@ -66,12 +66,12 @@ Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 source: [NCREE](http://www.ncree.org/)
 
-#IRIS
+# IRIS
 
 [Mw6.4 Taiwan](http://ds.iris.edu/ds/nodes/dmc/tools/event/10639985)
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 2018-02-06 15:50:42 UTC
@@ -80,10 +80,10 @@ source: [NCREE](http://www.ncree.org/)
 
 10.6 km depth
 
-###ShakeMap
+### ShakeMap
 ![USGS_Shakemap](images/20180206/us1000chhc_intensity.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -96,7 +96,7 @@ Nodal Planes
 
 Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us1000chhc#executive)
 
-###PAGER
+### PAGER
 Estimated Fatalities
 
 ![Estimated_Fatalities](images/20180206/us1000chhc_alertfatal_small.png)
@@ -106,7 +106,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20180206/us1000chhc_alertecon_small.png)
 
 
-##GFZ
+## GFZ
 
 F-E Region:	Taiwan	
 
@@ -120,13 +120,13 @@ Depth:	10 km
 
 Status:	C - confirmed
 
-###Poster
+### Poster
 [Taiwan M 6,3 am 06.02.2018](http://media.gfz-potsdam.de/gfz/sec21/regina/erdbebenposter/2018/gfz2018cozm-poster06_02.pdf)
 
-###Map
+### Map
 ![GFZ_Map](images/20180206/gfz2018cozm.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
@@ -138,39 +138,39 @@ Status:	C - confirmed
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018cozm)
 
-#地體構造
+# 地體構造
 
 
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [花蓮7級強震 5大樓倒塌2死百傷](https://tw.appledaily.com/headline/daily/20180207/37927182)
 
-##中時電子報
+## 中時電子報
 [地牛大翻身！花蓮4棟房屋倒塌 2死202傷](http://www.chinatimes.com/realtimenews/20180207000033-260405)
 
-##BBC
+## BBC
 [Taiwan earthquake: Deaths confirmed amid rescue effort](http://www.bbc.com/news/world-asia-42966916)
 
-##BBC中文
+## BBC中文
 [9死逾260傷　強餘震再襲台灣花蓮](http://www.bbc.com/zhongwen/trad/chinese-news-42968418)
 
 [台灣花蓮地震增至10人死亡 災民希望盡快重建家園](http://www.bbc.com/zhongwen/trad/chinese-news-42985198)
 
-##CNN
+## CNN
 [Scores missing after deadly 6.4-magnitude earthquake strikes Taiwan](https://edition.cnn.com/2018/02/06/world/taiwan-earthquake/index.html)
 
 [Search for missing in Taiwan after earthquake topples buildings](https://edition.cnn.com/2018/02/07/asia/taiwan-earthquake-hualien-intl/index.html)
 
-##Guardian
+## Guardian
 [Two people confirmed dead in 6.4-magnitude Taiwan earthquake](https://www.theguardian.com/world/2018/feb/06/taiwan-earthquake-breaks-up-roads-and-topples-buildings-hualien)
 
-##NHK
+## NHK
 [2 dead, over 200 injured in Taiwan quake](https://www3.nhk.or.jp/nhkworld/en/news/20180207_12/)
 
 
-#災害資訊
+# 災害資訊
 
 Source: [持續更新翠堤大樓凌晨測到生命跡象 全力搶救失聯7人](https://udn.com/news/story/10930/2972499)
 
@@ -178,14 +178,14 @@ Source: [中央災害應變中心](http://www.emic.gov.tw/9/index.php)
 
 《0206花蓮震災中央災害應變中心》災情續報截至上午8時30分止，情況如下
 
-##建築物倒塌（傾斜）4處：
+## 建築物倒塌（傾斜）4處：
 
 1. 統帥飯店（B1+11樓）
 2. 國盛六街2、4號（白金雙星大樓6樓）
 3. 國盛六街41號（吾居吾宿大樓9樓）
 4. 商校街2號（雲門翠堤大樓B1+12樓）
 
-##救出231人：
+## 救出231人：
 
 1. 統帥飯店98人
 2. 國盛六街2、4號68人
@@ -194,14 +194,14 @@ Source: [中央災害應變中心](http://www.emic.gov.tw/9/index.php)
 
 *國盛六街41號無人受困
 
-##失聯7人：
+## 失聯7人：
 
 1. 漂亮生活旅店7人（楊捷、丁文昌、丁守慧、何鳳華、楊浩然（小）（201）（5人）（陸客）
 2. Peter So（蘇煒禧、蕭敏瑜）（213）（2人加拿大籍）
 
 *國盛六街41號無人受困
 
-##受傷受傷就醫276人：
+## 受傷受傷就醫276人：
 
 1. 慈濟醫院130人（1人於加護病房）
 2. 門諾醫院83人
@@ -213,7 +213,7 @@ Source: [中央災害應變中心](http://www.emic.gov.tw/9/index.php)
 8. 台東馬偕醫院1人（陸籍）
 9. 台中農民醫院1人
 
-##死亡10人：
+## 死亡10人：
 
 1、自宅：               
 1.林麗貞（女性60歲）        
@@ -231,7 +231,7 @@ Source: [中央災害應變中心](http://www.emic.gov.tw/9/index.php)
 3、統帥：
 1.周志軒（男性37歲）     
 
-##收容所開設806人：
+## 收容所開設806人：
 
 1. 花蓮縣體育館560人
 2. 中華國小245人

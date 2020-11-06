@@ -14,20 +14,20 @@ tags:
 依據美國地質調查所(USGS)資料，台灣時間6月18日晚上9點22分，日本山形縣外海發生規模6.7強震，地震深度約12公里，
 日本氣象廳在地震發生後也立刻發出海嘯及避難警報。
 
-#日本氣象聽(JMA)
+# 日本氣象聽(JMA)
 
 [震源・震度に関する情報](http://www.jma.go.jp/jp/quake/20190618132623393-18222224.html)
 
-#日本防災科學技術研究所(NIED)
+# 日本防災科學技術研究所(NIED)
 
 [2019年6月18日 山形県沖の地震](http://www.hinet.bosai.go.jp/topics/yamagata190618/)
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 []()
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 []()
 
@@ -35,23 +35,23 @@ tags:
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#國震中心(ncree)
+# 國震中心(ncree)
 
 []()
 
 source: [NCREE](http://www.ncree.org/)
 
-#IRIS
+# IRIS
 
 []()
 
 
-#EMSC
+# EMSC
 
 [M 6.5 - NEAR WEST COAST OF HONSHU, JAPAN](https://www.emsc-csem.org/Earthquake/earthquake.php?id=772036)
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 
@@ -62,13 +62,13 @@ source: [NCREE](http://www.ncree.org/)
 
 12 km depth
 
-###ShakeMap
+### ShakeMap
 
 [USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us600042fx/shakemap/intensity)
 
 ![USGS_Shakemap_img](images/20190618/us600042fx_intensity.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -79,7 +79,7 @@ Nodal Planes
 
 ![USGS_Focal_Machanism](images/20190618/us600042fx_moment-tensor.png)
 
-##PAGER
+## PAGER
 
 Estimated Fatalities
 
@@ -90,7 +90,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20190618/us600042fx_alertecon_small.png)
 
 
-##GFZ
+## GFZ
 
 F-E Region:	Near West Coast of Honshu, Japan	
 
@@ -104,10 +104,10 @@ Depth:	20 km
 
 Status:	M - manually revised
 
-###Map
+### Map
 ![GFZ_Map](images/20190618/gfz2019lvyz.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
@@ -119,41 +119,41 @@ Status:	M - manually revised
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2019lvyz)
 
-#地體構造
+# 地體構造
 
 []()
 
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [日山形外海6.7地震釀26傷　多處土壤液化路面塌陷](https://tw.appledaily.com/new/realtime/20190619/1586192)
 
-##聯合新聞網
+## 聯合新聞網
 [日本新潟地震芮氏規模6.8 有海嘯風險](https://udn.com/news/story/6656/3879515)
 
-##中時電子報
+## 中時電子報
 [日本山形縣海岸規模6.8地震 發布海嘯預警](https://www.chinatimes.com/realtimenews/20190618004527-260408?chdtv)
 
-##ETtoday新聞
+## ETtoday新聞
 [新潟6.7強震釀21傷　土壤液化「半個輪胎陷地面」馬路成湖泊](https://www.ettoday.net/news/20190619/1470556.htm#ixzz5rMoa40mP )
 
-##BBC
+## BBC
 []()
 
-##CNN
+## CNN
 [Tsunamis warning lifted in Japanese coastal regions after earthquake](https://edition.cnn.com/2019/06/18/asia/japan-tsunami-warning-intl/index.html)
 
-##Guardian
+## Guardian
 []()
 
-##NHK
+## NHK
 [Strong quake hits off coast of northern Japan](https://www3.nhk.or.jp/nhkworld/en/news/20190619_02/)
 
 [M6.7 quake hits northern Japan, injuring 26](https://www3.nhk.or.jp/nhkworld/en/news/20190619_44/)
 
-#其他相關報導
+# 其他相關報導
 
-##Temblor
+## Temblor
 []
 

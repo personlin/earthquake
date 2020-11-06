@@ -12,12 +12,12 @@ tags:
 
 依據美國地質調查所(USGS)資料，日本時間6日上午3時7分，日本北海道發生規模6.6地震，地震深度33.4公里。
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 []()
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 []()
 
@@ -25,23 +25,23 @@ tags:
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#國震中心(ncree)
+# 國震中心(ncree)
 
 []()
 
 source: [NCREE](http://www.ncree.org/)
 
-#IRIS
+# IRIS
 
 []()
 
 
-#EMSC
+# EMSC
 
 [M 6.6 - HOKKAIDO, JAPAN REGION](https://www.emsc-csem.org/Earthquake/earthquake.php?id=711209)
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 
@@ -51,10 +51,10 @@ source: [NCREE](http://www.ncree.org/)
 
 33.4 km depth
 
-###ShakeMap
+### ShakeMap
 ![USGS_Shakemap]()
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -67,7 +67,7 @@ Nodal Planes
 
 Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty#executive)
 
-###PAGER
+### PAGER
 Estimated Fatalities
 
 ![Estimated_Fatalities](images/20180906/us1000gcii_alertfatal_small.png)
@@ -77,7 +77,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20180906/us1000gcii_alertecon_small.png)
 
 
-##GFZ
+## GFZ
 
 F-E Region:	Fiji Islands Region	
 
@@ -92,10 +92,10 @@ Depth:	566 km
 Status:	C - confirmed
 
 
-###Map
+### Map
 ![GFZ_Map](images/20180906/gfz2018rkrd.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
@@ -107,35 +107,35 @@ Status:	C - confirmed
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018rkrd)
 
-#地體構造
+# 地體構造
 
 [](http://earthjay.com/)
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [北海道上修震度7級　增至9死2百傷](https://tw.appledaily.com/new/realtime/20180906/1424736/)
 
-##聯合新聞網
+## 聯合新聞網
 [北海道凌晨6.7地震 火力電廠全停擺 295萬戶停電](https://udn.com/news/story/6812/3351422)
 
-##BBC
+## BBC
 []()
 
-##BBC中文
+## BBC中文
 []()
 
-##CNN
+## CNN
 []()
 
-##Guardian
+## Guardian
 []()
 
-##NHK
+## NHK
 []()
 
 
-#災害資訊
+# 災害資訊
 
 
 

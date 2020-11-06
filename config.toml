@@ -1,11 +1,11 @@
-baseurl = "http://earthquake.personlin.com"
+baseurl = "http://earthquake.personlin.com/"
 title = "地震資訊 Earthquake information blog"
 languageCode = "zh-tw"
 paginate = "10"
 theme = "Mainroad"
 googleAnalytics = "UA-595344-19"
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "\\.Rmd$", "_cache$"]
 hasCJKLanguage = true
 
 [Author]

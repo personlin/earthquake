@@ -11,12 +11,12 @@ tags:
 ---
 日本大阪2018/06/18上午7點58分（台北時間6點58分）發生規模6.1，最大震度6弱的強烈地震，造成至少4人死亡及376人受傷。
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 []()
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 []()
 
@@ -24,31 +24,31 @@ tags:
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#國震中心(ncree)
+# 國震中心(ncree)
 
 []()
 
 source: [NCREE](http://www.ncree.org/)
 
-#日本氣象聽(JMA)
+# 日本氣象聽(JMA)
 
 ![JMA_Shakemap](images/20180618/20180617230226393-18075838.png)
 
 [震源・震度に関する情報](http://www.jma.go.jp/jp/quake/20180617230226393-18075838.html)
 
-#日本防災科學技術研究所(NIED)
+# 日本防災科學技術研究所(NIED)
 [2018年06月18日　大阪府北部の地震による強震動](http://www.seis.bosai.go.jp/seis-portal/post/2018%E5%B9%B406%E6%9C%8818%E6%97%A5%E3%80%80%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%8C%97%E9%83%A8%E3%81%AE%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E5%BC%B7%E9%9C%87%E5%8B%95)
 
-#IRIS
+# IRIS
 
 [Mww5.5 Near S. Coast Of Western Honshu](http://ds.iris.edu/ds/nodes/dmc/tools/event/10885198)
 
-#EMSC
+# EMSC
 
 [M5.6 - NEAR S. COAST OF WESTERN HONSHU](https://www.emsc-csem.org/Earthquake/earthquake.php?id=677860)
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 2018-06-17 22:58:35 UTC 
@@ -57,10 +57,10 @@ source: [NCREE](http://www.ncree.org/)
 
 10.9 km depth
 
-###ShakeMap
+### ShakeMap
 ![USGS_Shakemap](images/20180618/us1000eu1c_intensity.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -73,7 +73,7 @@ Nodal Planes
 
 Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us1000eu1c#executive)
 
-###PAGER
+### PAGER
 Estimated Fatalities
 
 ![Estimated_Fatalities](images/20180618/us1000eu1c_alertfatal_small.png)
@@ -83,7 +83,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20180618/us1000eu1c_alertecon_small.png)
 
 
-##GFZ
+## GFZ
 
 F-E Region:	Near S. Coast of Western Honshu	
 
@@ -97,10 +97,10 @@ Depth:	13 km
 
 Status:	M - manually revised
 
-###Map
+### Map
 ![GFZ_Map](images/20180618/gfz2018luwm.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
@@ -112,37 +112,37 @@ Status:	M - manually revised
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018luwm)
 
-#地體構造
+# 地體構造
 
 
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [大阪6.1地震4死358傷　恐有大型餘震 (動畫)](https://tw.appledaily.com/new/realtime/20180618/1375254/)
 
-##中時電子報
+## 中時電子報
 [大阪發生規模6.1地震 交通運輸大亂](http://www.chinatimes.com/realtimenews/20180618000954-260415)
 
-##BBC
+## BBC
 [
 Video
 Deadly earthquake hits Japan](https://www.bbc.com/news/av/world-asia-44516932/deadly-earthquake-hits-japan)
 
-##BBC中文
+## BBC中文
 []()
 
-##CNN
+## CNN
 [Japan quake: Strong tremor shakes Osaka, killing at least 3](http://cnnphilippines.com/world/2018/06/18/Earthquake-Japan-Guatemala.html)
 
-##Guardian
+## Guardian
 [Osaka earthquake: three people dead after 6.1-magnitude tremor](https://www.theguardian.com/world/2018/jun/18/osaka-earthquake-japan-61-magnitude-tremor)
 
-##NHK
+## NHK
 [At least 3 dead in Osaka quake](https://www3.nhk.or.jp/nhkworld/en/news/20180618_20/)
 
 
-#災害資訊
+# 災害資訊
 
 
 

@@ -12,12 +12,12 @@ tags:
 
 依據美國地質調查所(USGS)資料，台灣時間19日上午8時19分，太平洋斐濟(Fiji)群島附近海域發生規模8.2強震，地震深度達563公里，屬於隱沒帶深源地震。
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 []()
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 []()
 
@@ -25,24 +25,24 @@ tags:
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#國震中心(ncree)
+# 國震中心(ncree)
 
 []()
 
 source: [NCREE](http://www.ncree.org/)
 
-#IRIS
+# IRIS
 
 [Magnitude 8.2 Fiji](https://www.iris.edu/hq/retm/event/5603)
 
 [IRIS Youtube影片: M 8.2 Earthquake, Fiji—August 19, 2018](https://www.youtube.com/watch?v=6rpKstVxc1k)
 
-#EMSC
+# EMSC
 
 [M 8.2 - FIJI REGION](https://www.emsc-csem.org/Earthquake/earthquake.php?id=707745)
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 
@@ -52,10 +52,10 @@ source: [NCREE](http://www.ncree.org/)
 
 563.4 km depth
 
-###ShakeMap
+### ShakeMap
 ![USGS_Shakemap](images/20180819/us1000gcii_intensity.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -68,7 +68,7 @@ Nodal Planes
 
 Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcii#executive)
 
-###PAGER
+### PAGER
 Estimated Fatalities
 
 ![Estimated_Fatalities](images/20180819/us1000gcii_alertfatal_small.png)
@@ -78,7 +78,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20180819/us1000gcii_alertecon_small.png)
 
 
-##GFZ
+## GFZ
 
 F-E Region:	Fiji Islands Region	
 
@@ -92,10 +92,10 @@ Depth:	566 km
 
 Status:	C - confirmed
 
-###Map
+### Map
 ![GFZ_Map](images/20180819/gfz2018qegj.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
@@ -107,31 +107,31 @@ Status:	C - confirmed
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018qegj)
 
-#地體構造
+# 地體構造
 
 [Earthquake Report: Fiji, by Jay Patton](http://earthjay.com/?p=7598)
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [斐濟、東加海域8.2強震　未引發海嘯及損傷](https://tw.appledaily.com/new/realtime/20180819/1413701/)
 
-##中時電子報
+## 中時電子報
 [太平洋群島強震！斐濟規模8.2 東加8.0](https://www.chinatimes.com/realtimenews/20180819001036-260408)
 
-##BBC
+## BBC
 [Fiji earthquake map: Where did MASSIVE 8.2 quake hit? Is there a tsunami warning?](https://www.express.co.uk/news/world/1005411/fiji-earthquake-map-where-8-2-quake-hit-is-there-tsunami-warning)
 
-##BBC中文
+## BBC中文
 []()
 
-##CNN
+## CNN
 [8.2-magnitude earthquake strikes in South Pacific off Fiji](https://edition.cnn.com/2018/08/18/world/earthquake-strikes-in-south-pacific/index.html)
 
-##Guardian
+## Guardian
 []()
 
-##NHK
+## NHK
 [M8.2 earthquake jolts Fiji](https://www3.nhk.or.jp/nhkworld/en/news/20180819_11/)
 
 

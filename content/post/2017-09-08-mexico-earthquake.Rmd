@@ -10,13 +10,13 @@ tags:
   - Mexico
 ---
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 [2017年9月8日墨西哥近海地震事件說明](http://www.cwb.gov.tw/V7/news/Upload/20170908-Mexico-eqevent.pdf)
 
 Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 ![TEC_Event](images/20170908/20170908_Mexico_TEC_01.jpg)
 
@@ -24,7 +24,7 @@ Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
 
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 2017-09-08 04:49:17 UTC
@@ -33,16 +33,16 @@ Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 35.0 km depth
 
-###ShakeMap
+### ShakeMap
 ![USGS_Shakemap](images/20170908/us2000ahv0_intensity.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 ![USGS_Focal_Machanism](images/20170908/us2000ahv0_moment-tensor.png)
 
 Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0#executive)
 
 
-##GFZ
+## GFZ
 F-E Region:	Gansu, China	
 
 Time:	2017-08-08 13:19:50.2 UTC
@@ -55,30 +55,30 @@ Depth:	9 km
 
 Status:	M - manually revised
 
-###Map
+### Map
 ![GFZ_Map](images/20170908/gfz2017rpdi.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 ![GFZ_Focal_Machanism](images/20170908/gfz2017rpdi_bb.png)
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2017rpdi)
 
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [墨西哥規模8.4強震至少2死　釀70公分海嘯](http://www.appledaily.com.tw/realtimenews/article/international/20170908/1199690)
 
-##BBC
+## BBC
 [Earthquake of magnitude 8.1 strikes off Mexico's Pacific coast](http://www.bbc.com/news/world-latin-america-41197831)
 
-##中時電子報
+## 中時電子報
 
-##CNN
+## CNN
 [Earthquake hits off the coast of southern Mexico](http://edition.cnn.com/2017/09/08/americas/earthquake-hits-off-the-coast-of-southern-mexico/index.html)
 
-##Guardian
+## Guardian
 [Mexico earthquake: tsunami confirmed after 8.4 magnitude quake kills three](https://www.theguardian.com/world/2017/sep/08/mexico-earthquake-warning-tsunami)
 
 
-#災害資訊
+# 災害資訊

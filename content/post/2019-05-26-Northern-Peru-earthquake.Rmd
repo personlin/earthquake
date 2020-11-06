@@ -13,12 +13,12 @@ tags:
 
 依據美國地質調查所(USGS)資料，台灣時間5月26日下午3點41分，祕魯北部發生規模8.0強震，地震深度約109.9公里。
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 []()
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 []()
 
@@ -26,23 +26,23 @@ tags:
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#國震中心(ncree)
+# 國震中心(ncree)
 
 []()
 
 source: [NCREE](http://www.ncree.org/)
 
-#IRIS
+# IRIS
 
 [Special Event: Northern Peru](https://ds.iris.edu/ds/nodes/dmc/specialevents/2019/05/26/northern-peru/)
 
 
-#EMSC
+# EMSC
 
 [M 8.0 - NORTHERN PERU](https://www.emsc-csem.org/Earthquake/earthquake.php?id=767801)
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 
@@ -52,13 +52,13 @@ source: [NCREE](http://www.ncree.org/)
 
 109.88 km depth
 
-###ShakeMap
+### ShakeMap
 
 [USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us60003sc0/shakemap/intensity)
 
 ![USGS_Shakemap_img](images/20190526/us60003sc0_intensity.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -69,11 +69,11 @@ Nodal Planes
 
 ![USGS_Focal_Machanism](images/20190526/us60003sc0_moment-tensor.png)
 
-###Finite Fault
+### Finite Fault
 
 ![USGS_Finite_Fault](images/20190526/us60003sc0_finite_fault.png)
 
-##PAGER
+## PAGER
 
 Estimated Fatalities
 
@@ -84,7 +84,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20190526/us60003sc0_alertecon_small.png)
 
 
-##GFZ
+## GFZ
 
 F-E Region:	Northern Peru	
 
@@ -98,10 +98,10 @@ Depth:	103 km
 
 Status:	M - manually revised
 
-###Map
+### Map
 ![GFZ_Map](images/20190526/gfz2019kfne.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
@@ -112,40 +112,40 @@ Status:	M - manually revised
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2019kfne)
 
-#地體構造
+# 地體構造
 
 [Earthquake Report: Peru](http://earthjay.com/?p=8541)
 
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [南美洲秘魯8.0強震　已有1死11傷](https://tw.appledaily.com/new/realtime/20190526/1573422/)
 
-##聯合新聞網
+## 聯合新聞網
 [秘魯北部規模8.0強震 至少1死11傷](https://udn.com/news/story/6809/3836168)
 
 ##中時電子報
 [今年最強震狂搖3分鐘！秘魯北部發生8.0大地震](https://www.chinatimes.com/realtimenews/20190526001771-260408?chdtv)
 
-##BBC
+## BBC
 [Cracks open up as earthquake hits Peru](https://www.bbc.com/news/av/world-latin-america-48420191/cracks-open-up-as-earthquake-hits-peru)
 
-##CNN
+## CNN
 [Peru earthquake leaves one dead and several injured](https://edition.cnn.com/2019/05/26/americas/peru-earthquake-may-intl/index.html)
 
-##Guardian
+## Guardian
 [Strong 8.0-magnitude earthquake jolts Peru](https://guardian.ng/news/world/strong-8-0-magnitude-earthquake-jolts-peru/)
 
-##NHK
+## NHK
 [M8.0 earthquake hits Peru](https://www3.nhk.or.jp/nhkworld/en/news/20190526_23/)
 
-#其他相關報導
+# 其他相關報導
 
-##Temblor
+## Temblor
 [Deep earthquake in Peru is felt along the length of South America: More to follow?](http://temblor.net/earthquake-insights/deep-earthquake-in-peru-is-felt-along-the-length-of-south-america-8710/)
 
-##PEER
+## PEER
 [StEER Report on May 29, 2019 Peru Earthquake](https://peer.berkeley.edu/news/steer-report-may-29-2019-peru-earthquake)
 
 Access the report from this link: [https://aub.ie/steer_EQ_lagunaperu](https://aub.ie/steer_EQ_lagunaperu)

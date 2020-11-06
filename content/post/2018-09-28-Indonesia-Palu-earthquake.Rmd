@@ -13,12 +13,12 @@ tags:
 
 依據美國地質調查所(USGS)資料，台灣時間28日下午6時2分，印尼蘇拉威西島發生規模7.5地震，地震深度10公里，地震造成許多建物倒塌，並引發高達6公尺的海嘯與大規模山崩，傷亡慘重。
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 [2018 年 9 月 28 日印尼蘇拉威西島地震海嘯事件說明](https://www.cwb.gov.tw/V7/news/Upload/20180928_Indonesia_Sulawesi_Earthquake.pdf)
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 [2018-09-28 Mw 7.5 印尼巴魯(Palu)地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2018-09-28_M7.5.pdf)
 
@@ -26,23 +26,23 @@ tags:
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#國震中心(ncree)
+# 國震中心(ncree)
 
 []()
 
 source: [NCREE](http://www.ncree.org/)
 
-#IRIS
+# IRIS
 
 [Magnitude 7.5 Indonesia](https://www.iris.edu/hq/retm/event/5647)
 
 
-#EMSC
+# EMSC
 
 [M 7.5 - MINAHASA, SULAWESI, INDONESIA](https://www.emsc-csem.org/Earthquake/earthquake.php?id=715248)
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 
@@ -52,10 +52,10 @@ source: [NCREE](http://www.ncree.org/)
 
 10.0 km depth
 
-###ShakeMap
+### ShakeMap
 [USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us1000h3p4/shakemap/intensity)
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -68,7 +68,7 @@ Nodal Planes
 
 Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us1000h3p4/executive)
 
-###PAGER
+### PAGER
 Estimated Fatalities
 
 ![Estimated_Fatalities](images/20180928/us1000h3p4_alertfatal.png)
@@ -78,7 +78,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20180928/us1000h3p4_alertecon.png)
 
 
-##GFZ
+## GFZ
 
 F-E Region:	Minahassa Peninsula, Sulawesi	
 
@@ -92,10 +92,10 @@ Depth:	10 km
 
 Status:	M - manually revised
 
-###Map
+### Map
 ![GFZ_Map](images/20180928/gfz2018tabt.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 | Plane | Strike | Dip  | Rake |
 | ----- | ------ | ---- | ---- |
@@ -107,60 +107,60 @@ Status:	M - manually revised
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2018rkrd)
 
-#地體構造
+# 地體構造
 
 [Earthquake Report: Sulawesi (Celebes), Indonesia](http://earthjay.com/?p=7793)
 
 [ALOS-2 interferogram shows the M7.5 Palu earthquake rupture continues onshore to the north, not offshore.](https://twitter.com/planet_mech/status/1047282079229079552)
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [「海嘯出乎意料」學者說跟印尼複雜地質有關](https://tw.news.appledaily.com/international/realtime/20180929/1438690/)
 
-##聯合新聞網
+## 聯合新聞網
 [2強震+大海嘯 印尼「死亡恐數千人」](https://udn.com/news/story/11314/3394864)
 
-##BBC
+## BBC
 [Indonesia earthquake: Hundreds dead in Palu quake and tsunami](https://www.bbc.co.uk/news/world-asia-45683630)
 
 ['Surprise' Palu tsunami clue found on seafloor](https://www.bbc.com/news/science-environment-46515833)
 
-##BBC中文
+## BBC中文
 [印尼地震海嘯災情「比預期嚴重」 災民求生的困境](https://www.bbc.com/zhongwen/trad/world-45696849)
 
-##CNN
+## CNN
 [Earthquakes hit Indonesia, including 7.5 magnitude tremor near Palu](https://edition.cnn.com/2018/09/28/asia/indonesia-earthquake-palu-intl/)
 
-##Guardian
+## Guardian
 [Death toll from Sulawesi tsunami reaches 384](https://www.theguardian.com/world/2018/sep/28/tsunami-hits-indonesian-cities-after-powerful-earthquake)
 
-##NHK
+## NHK
 [M7.5 quake rocks Sulawesi, Indonesia](https://www3.nhk.or.jp/nhkworld/en/news/20180928_40/)
 
 
-#其他相關報導
+# 其他相關報導
 
-##New York Times
+## New York Times
 [Indonesia Earthquake and Tsunami:Before-and-After Photos of the Destruction](https://www.nytimes.com/interactive/2018/10/01/world/asia/map-tsunami-indonesia.html)
 
-##Temblor
+## Temblor
 [The Palu-Koro fault ruptures in a M=7.5 quake in Sulawesi, Indonesia, triggering a tsunami and likely more shocks](http://temblor.net/earthquake-insights/the-palu-koro-fault-ruptures-in-a-m7-5-quake-in-sulawesi-indonesia-triggering-a-tsunami-and-likely-more-shocks-7797/)
 
 [Tsunami in Sulawesi, Indonesia, triggered by earthquake, landslide, or both](http://temblor.net/earthquake-insights/tsunami-in-sulawesi-indonesia-triggered-by-earthquake-landslides-or-both-7825/)
 
 [Finding of the unexpected tsunami due to the strike-slip fault at central Sulawesi, Indonesia on 28 September 2018, from the preliminary field survey at Palu](http://temblor.net/earthquake-insights/finding-of-the-unexpected-tsunami-due-to-the-strike-slip-fault-at-central-sulawesi-indonesia-on-28-september-2018-from-the-preliminary-field-survey-at-palu-7855/)
 
-##AGU Landslide Blog
+## AGU Landslide Blog
 [Giant landslides in Palu from the 2018 Sulawesi earthquake](https://blogs.agu.org/landslideblog/2018/10/02/palu-sulawesi-earthquake-2/)
 
 [High resolution imagery of the Palu landslides](https://blogs.agu.org/landslideblog/2018/10/03/palu-landslides-1/)
 
 [The Palu landslides – the worst landslide disaster in five years?](https://blogs.agu.org/landslideblog/2018/10/08/palu-landslides-3/)
 
-##EGU blog
+## EGU blog
 [Palu 2018 – Science and surprise behind the earthquake and tsunami](https://blogs.egu.eu/divisions/sm/2018/10/08/palu-2018-science-and-surprise-behind-the-earthquake-and-tsunami/)
 
-##gempa
+## gempa
 
 [Plate rupturing or landslide? What caused the tsunami after the M7.5 earthquake N of Palu, Indonesia?](https://gempa.de/news/2018/9/28/tsunami-m75-earthquake-palu-indonesia/)

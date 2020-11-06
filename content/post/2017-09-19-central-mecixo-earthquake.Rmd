@@ -11,30 +11,30 @@ tags:
   - Mexico
 ---
 
-#中央氣象局(CWB)
+# 中央氣象局(CWB)
 
 [2017年9月20日 墨西哥 普埃布拉 地震事件說明](http://www.cwb.gov.tw/V7/news/Upload/20170920--Mexico-eqevent.pdf)
 
 Source:[CWB](http://www.cwb.gov.tw/V7/index.htm)
 
 
-#台灣地震科學中心(TEC)資訊彙整
+# 台灣地震科學中心(TEC)資訊彙整
 
 [2017-09-20 Mw 7.1 墨西哥地震](http://tec.earth.sinica.edu.tw/new_web/upload/news/EQfile/2017-09-20_M7.1.pdf)
 
 Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 
-#IRIS
+# IRIS
 
 [Special Event: Central Mexico](http://ds.iris.edu/ds/nodes/dmc/specialevents/2017/09/19/central-mexico/)
 
-#gempa
+# gempa
 
 ![gempa_page](images/20170919/gempa_2017_9_19_20170919-mexico.png)
 [The strong M7 earthquake close to Mexico City on 19-09-2017](https://www.gempa.de/news/2017/9/19/20170919-mexico/)
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## USGS
 2017-09-19 18:14:39 UTC
@@ -43,10 +43,10 @@ Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
 
 51.0 km depth
 
-###ShakeMap
+### ShakeMap
 ![USGS_Shakemap](images/20170919/us2000ar20_intensity.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 
 Nodal Planes
 
@@ -59,7 +59,7 @@ Nodal Planes
 
 Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000ar20#executive)
 
-###PAGER
+### PAGER
 Estimated Fatalities
 
 ![Estimated_Fatalities](images/20170919/us2000ar20_alertfatal_small.png)
@@ -69,7 +69,7 @@ Estimated Economic Losses
 ![Estimated_Economic_Losses](images/20170919/us2000ar20_alertecon_small.png)
 
 
-##GFZ
+## GFZ
 F-E Region:	Central Mexico	
 
 Time:	2017-09-19 18:14:39.2 UTC
@@ -82,17 +82,17 @@ Depth:	56 km
 
 Status:	M - manually revised
 
-###Map
+### Map
 ![GFZ_Map](images/20170919/gfz2017skgl.jpg)
 
-###Focal Mechanism
+### Focal Mechanism
 ![GFZ_Focal_Machanism](images/20170919/gfz2017skgl_bb.png)
 
 Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2017skgl)
 
-#地體構造
+# 地體構造
 
-##陳冠宇博士(Dr. Kuan-Yu Chen)提供
+## 陳冠宇博士(Dr. Kuan-Yu Chen)提供
 
 ![eqmap1](images/20170919/MEXiCo_20170920M7.1_1.PNG)
 
@@ -100,22 +100,22 @@ Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2017skgl)
 
 Figure origin: Pardo, M., and G. Suárez (1995), Shape of the subducted Rivera and Cocos plates in southern Mexico: Seismic and tectonic implications, J. Geophys. Res., 100(B7), 12357–12373, doi:10.1029/95JB00919.
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [西哥再傳7.1強震　已119死](http://www.appledaily.com.tw/realtimenews/article/new/20170920/1207115/)
 
-##BBC
+## BBC
 [Mexico: Strong earthquake topples buildings, killing scores](http://www.bbc.com/news/world-latin-america-41327593)
 
-##中時電子報
+## 中時電子報
 [墨西哥發生規模7.1地震 至少119死](http://www.chinatimes.com/realtimenews/20170920000901-260408)
 
-##CNN
+## CNN
 [Central Mexico earthquake kills more than 100, topples buildings](http://edition.cnn.com/2017/09/19/americas/mexico-earthquake/index.html)
 
-##Guardian
+## Guardian
 [More than 100 dead after powerful earthquake hits southern Mexico](https://www.theguardian.com/world/2017/sep/19/mexico-city-earthquake-anniversary-1985)
 
 
-#災害資訊
+# 災害資訊

@@ -10,7 +10,7 @@ tags:
 ---
 
 
-#觀測網地震資訊
+# 觀測網地震資訊
 
 ## CTBTO
 
@@ -29,7 +29,7 @@ Source:[CTBTO](https://www.ctbto.org/press-centre/press-releases/2017/ctbto-exec
 
 0.0 km depth
 
-###ShakeMap
+### ShakeMap
 ![USGS Shakemap](images/20170903/us2000aert_intensity.jpg)
 
 Source:[USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000aert#executive)
@@ -58,19 +58,19 @@ Source-type inversion result for the DPRK nuclear test.
 
 ![Douglas Dreger, UC Berkeley](images/20170903/dreger_dprk09032017_moment_tensor.png)
 
-#新聞
+# 新聞
 
-##蘋果日報
+## 蘋果日報
 [引爆6.3強震 北韓：成功試爆氫彈](http://www.appledaily.com.tw/realtimenews/article/new/20170903/1196104/)
 
-##BBC
+## BBC
 [North Korea announces nuclear test](http://www.bbc.com/news/av/world-asia-41140099/n-korea-announces-nuclear-test?intlink_from_url=http%3A%2F%2Fwww.bbc.com%2Fnews%2Ftopics%2F590ec892-07c1-49d5-b7b7-1de0b05d0500%2Fnorth-korea&link_location=live-reporting-map)
 
-##中時電子報
+## 中時電子報
 [北韓官方證實完成氫彈試爆](http://www.chinatimes.com/realtimenews/20170903001867-260408)
 
-##CNN
+## CNN
 [What happens when North Korea tests a nuclear weapon](http://edition.cnn.com/2017/09/03/asia/north-korea-nuclear-test-explainer/index.html)
 
 
-#災害資訊
+# 災害資訊
