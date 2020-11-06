@@ -34,9 +34,9 @@ get.GFZ <- function(eventid){
   text4 <- paste(text.all[8], paste(str_extract_all(text.all[9], "[0-9]{1,3}\\.[0-9]{1,2}.[A-Z]")[[1]], collapse = ", "))
   text5 <- paste(text.all[10], text.all[11])
   text6 <- paste(text.all[12], text.all[13])
-  text7 <- "###Map"
+  text7 <- "### Map"
   text8 <- paste0("![GFZ_Map](images/", format(eq.time, "%Y%m%d"), "/",eventid, ".jpg)")
-  text9 <- "###Focal Mechanism"
+  text9 <- "### Focal Mechanism"
   text10 <- "| Plane | Strike | Dip  | Rake |"
   text11 <- "| ----- | ------ | ---- | ---- |"
   text12 <- paste("| NP1   |",   paste(eq.node1, collapse = "   |   "), "|")
