@@ -26,7 +26,13 @@ get.USGS.event.geojson("us60007idc")
 #2020-10-30 愛琴海地震
 get.USGS.event.geojson("us7000c7y0")
 
+#2020-12-10 宜蘭隱沒帶地震
+get.USGS.event.geojson("us7000cpqz")
+
 # Get EQ info from GFZ ----
+
+# 2020-12-10 宜蘭隱沒帶地震
+get.GFZ("gfz2020yfnl")
 
 # 2019-08-08 宜蘭地震
 get.GFZ("gfz2019pjye")

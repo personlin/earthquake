@@ -1,0 +1,158 @@
+---
+title: 2020-12-10 宜蘭外海隱沒帶地震
+author: Person
+date: '2020-12-10'
+slug: ilan-subduction-earthquake
+categories:
+  - Earthquake
+tags:
+  - Subduction 
+  - Intraslab
+  - Taiwan
+---
+
+宜蘭外海在2020/12/10晚上9時19分發生ML規模6.7的地震，震源深度76.8公里，屬於隱沒帶板塊內部型地震。
+在宜蘭、台北、新北、基隆、桃園、新竹，苗栗的震度都達到四級(氣象局新的地震分級)。
+
+
+
+# 中央氣象局(CWB)
+
+[地震報告072](https://scweb.cwb.gov.tw/zh-tw/earthquake/details/2020121021195867072)
+
+## 地震報告
+
+![EC1210211967072](images/20201210/2020121021195867072.gif)
+
+
+## 等震度圖
+
+![2020072i](images/20201210/2020072i.png)
+
+
+## 震源機制
+
+![2020072cmt](images/20201210/2020072cmt.gif)
+
+
+Source:[CWB](https://www.cwb.gov.tw/V8/C/)
+
+
+# 台灣地震科學中心(TEC)資訊彙整
+
+[2020-12-10 ML 6.7 深度76.8km 宜蘭外海 中深度隱沒帶地震](https://tec.earth.sinica.edu.tw/upload/news/EQfile/2020-12-10ML6.7.pdf)
+
+
+Source:[TEC](http://tec.earth.sinica.edu.tw/new_web/index.php)
+
+
+# 國震中心(ncree)
+
+[]()
+
+
+# IRIS
+
+[]()
+
+
+# 觀測網地震資訊
+
+## USGS
+2020-12-10 13:19:58 (UTC)
+
+24.7632簞N 122.0098簞E
+
+73.17 km depth
+
+### ShakeMap
+
+[USGS_Shakemap](https://earthquake.usgs.gov/earthquakes/eventpage/us7000cpqz/shakemap/intensity)
+
+![USGS_Shakemap_img](images/20201210/us7000cpqz_intensity.jpg)
+
+### Focal Mechanism
+
+Nodal Planes
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 74.34 | 33.57  | 159.97  |
+| NP2   | 181.24 | 79.08  | 58.06  |
+
+![USGS_Focal_Machanism](images/20201210/us7000cpqz_moment-tensor.png)
+
+### Finite Fault
+
+![USGS_Finite_Fault](images/20201210/us7000cpqz_finite_fault.png)
+
+## PAGER
+
+Estimated Fatalities
+
+![Estimated_Fatalities](images/20201210/us7000cpqz_alertfatal_small.png)
+
+Estimated Economic Losses
+
+![Estimated_Economic_Losses](images/20201210/us7000cpqz_alertecon_small.png)
+
+
+## GFZ
+
+F-E Region Taiwan Region
+
+Time 2020-12-10 13:19:58.4 UTC
+
+Magnitude 6.1 (Mw)
+
+Epicenter 122.10°E, 24.73°N
+
+Depth 67 km
+
+Status C - confirmed 
+
+### Map
+
+![GFZ_Map](images/20201210/gfz2020yfnl.jpg)
+
+### Focal Mechanism
+
+| Plane | Strike | Dip  | Rake |
+| ----- | ------ | ---- | ---- |
+| NP1   | 356   |   73   |   174 |
+| NP2   | 87   |   85   |   17 |
+
+![GFZ_Focal_Machanism](images/20201210/gfz2020yfnl_bb.png)
+
+
+Source:[GFZ](http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2020yfnl)
+
+# 地體構造
+
+
+
+# 新聞
+
+## 蘋果日報
+[6.7強震處地震好發帶　曾有23起6以上強震！未來一周會有規模4餘震](https://tw.appledaily.com/life/20201210/FCX3FRX3G5DONDTAAM662W2FLU/)
+
+## 中時電子報
+[6.7大地震撼全台 氣象局曝原因：未來一周還有餘震](https://www.chinatimes.com/realtimenews/20201210006632-260405?chdtv)
+
+## 聯合新聞網
+[今年最大地震！氣象局：不排除一周內有4.0以上餘震](https://udn.com/news/story/121855/5082997)
+
+## BBC
+
+## BBC中文
+
+## CNN
+[]()
+
+## Guardian
+
+## NHK
+[]()
+
+
+
