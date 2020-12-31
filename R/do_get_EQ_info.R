@@ -29,7 +29,13 @@ get.USGS.event.geojson("us7000c7y0")
 #2020-12-10 宜蘭隱沒帶地震
 get.USGS.event.geojson("us7000cpqz")
 
+#2020-12-29 克羅埃西亞地震
+get.USGS.event.geojson("us6000d3zh")
+
 # Get EQ info from GFZ ----
+
+#2020-12-29 克羅埃西亞地震
+get.GFZ("gfz2020zocb")
 
 # 2020-12-10 宜蘭隱沒帶地震
 get.GFZ("gfz2020yfnl")
