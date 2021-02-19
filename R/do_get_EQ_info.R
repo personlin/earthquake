@@ -32,6 +32,10 @@ get.USGS.event.geojson("us7000cpqz")
 #2020-12-29 克羅埃西亞地震
 get.USGS.event.geojson("us6000d3zh")
 
+#2020-02-13 日本東北地震
+get.USGS.event.geojson("us6000dher")
+get.GFZ("gfz2021dbqp")
+
 # Get EQ info from GFZ ----
 
 #2020-12-29 克羅埃西亞地震
