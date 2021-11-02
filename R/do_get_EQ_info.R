@@ -36,6 +36,14 @@ get.USGS.event.geojson("us6000d3zh")
 get.USGS.event.geojson("us6000dher")
 get.GFZ("gfz2021dbqp")
 
+# 2021-07-28 阿拉斯加地震
+get.USGS.event.geojson("ak0219neiszm")
+get.GFZ("gfz2021osin")
+
+# 2021-08-14 海地地震
+get.USGS.event.geojson("us6000f65h")
+get.GFZ("gfz2021pwax")
+
 # Get EQ info from GFZ ----
 
 #2020-12-29 克羅埃西亞地震
@@ -55,3 +63,4 @@ get.GFZ("gfz2020byun")
 
 #2020-10-30 愛琴海地震
 get.GFZ("gfz2020vimx")
+
