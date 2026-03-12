@@ -36,11 +36,9 @@
 	{{- end }}
 
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	{{- if not .Site.IsServer }}
-		{{- if hasPrefix .Site.GoogleAnalytics "G-" }}
-		{{ template "_internal/google_analytics.html" . }}
-		{{- else }}
-		{{ template "_internal/google_analytics_async.html" . }}
+	{{- if not hugo.IsServer }}
+		{{- with .Site.GoogleAnalytics }}
+		{{ template "_internal/google_analytics.html" $ }}
 		{{- end }}
 	{{- end }}
 </head>
