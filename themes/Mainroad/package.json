@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/Vimux/Mainroad/issues"
   },
-  "homepage": "https://github.com/Vimux/Mainroad"
+  "homepage": "https://github.com/Vimux/Mainroad",
+  "overrides": {
+    "tar": "7.5.22"
+  }
 }
